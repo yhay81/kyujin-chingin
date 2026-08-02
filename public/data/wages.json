@@ -1,0 +1,5474 @@
+[
+  {
+    "placeId": "JP-00",
+    "industryId": "ALL",
+    "fullTime": { "reception": [251, 259], "workplace": [253, 261] },
+    "partTime": { "reception": [1206, 1261], "workplace": [1212, 1265] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "AB",
+    "fullTime": { "reception": [231, 239], "workplace": [232, 240] },
+    "partTime": { "reception": [1092, 1150], "workplace": [1095, 1153] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "C",
+    "fullTime": { "reception": [248, 252], "workplace": [248, 253] },
+    "partTime": { "reception": [1251, 1283], "workplace": [1250, 1269] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "D",
+    "fullTime": { "reception": [290, 297], "workplace": [292, 300] },
+    "partTime": { "reception": [1257, 1315], "workplace": [1262, 1319] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "E",
+    "fullTime": { "reception": [236, 243], "workplace": [236, 243] },
+    "partTime": { "reception": [1101, 1154], "workplace": [1101, 1154] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "F",
+    "fullTime": { "reception": [243, 249], "workplace": [243, 249] },
+    "partTime": { "reception": [1166, 1236], "workplace": [1165, 1235] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "G",
+    "fullTime": { "reception": [323, 333], "workplace": [323, 333] },
+    "partTime": { "reception": [1266, 1320], "workplace": [1266, 1324] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "H",
+    "fullTime": { "reception": [245, 253], "workplace": [244, 253] },
+    "partTime": { "reception": [1178, 1232], "workplace": [1179, 1234] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "I",
+    "fullTime": { "reception": [245, 253], "workplace": [249, 256] },
+    "partTime": { "reception": [1146, 1196], "workplace": [1160, 1196] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "J",
+    "fullTime": { "reception": [252, 260], "workplace": [253, 260] },
+    "partTime": { "reception": [1153, 1217], "workplace": [1153, 1218] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "K",
+    "fullTime": { "reception": [259, 267], "workplace": [260, 267] },
+    "partTime": { "reception": [1179, 1226], "workplace": [1180, 1227] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "L",
+    "fullTime": { "reception": [294, 305], "workplace": [312, 326] },
+    "partTime": { "reception": [1266, 1317], "workplace": [1284, 1327] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "M",
+    "fullTime": { "reception": [250, 260], "workplace": [250, 261] },
+    "partTime": { "reception": [1105, 1150], "workplace": [1106, 1151] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "N",
+    "fullTime": { "reception": [250, 257], "workplace": [253, 262] },
+    "partTime": { "reception": [1170, 1228], "workplace": [1210, 1276] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "O",
+    "fullTime": { "reception": [232, 241], "workplace": [233, 241] },
+    "partTime": { "reception": [1320, 1382], "workplace": [1334, 1389] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "P",
+    "fullTime": { "reception": [236, 244], "workplace": [236, 244] },
+    "partTime": { "reception": [1279, 1328], "workplace": [1280, 1330] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "Q",
+    "fullTime": { "reception": [201, 212], "workplace": [201, 212] },
+    "partTime": { "reception": [1115, 1182], "workplace": [1116, 1182] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "R",
+    "fullTime": { "reception": [240, 248], "workplace": [239, 248] },
+    "partTime": { "reception": [1147, 1206], "workplace": [1154, 1212] }
+  },
+  {
+    "placeId": "JP-00",
+    "industryId": "ST",
+    "fullTime": { "reception": [218, 233], "workplace": [220, 235] },
+    "partTime": { "reception": [1329, 1434], "workplace": [1335, 1441] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "ALL",
+    "fullTime": { "reception": [235, 244], "workplace": [239, 247] },
+    "partTime": { "reception": [1151, 1205], "workplace": [1156, 1204] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "AB",
+    "fullTime": { "reception": [253, 257], "workplace": [255, 258] },
+    "partTime": { "reception": [1188, 1231], "workplace": [1190, 1228] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "C",
+    "fullTime": { "reception": [238, 253], "workplace": [241, 256] },
+    "partTime": { "reception": [1540, 1905], "workplace": [1509, 1971] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "D",
+    "fullTime": { "reception": [279, 287], "workplace": [282, 290] },
+    "partTime": { "reception": [1204, 1301], "workplace": [1196, 1303] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "E",
+    "fullTime": { "reception": [219, 230], "workplace": [222, 232] },
+    "partTime": { "reception": [1079, 1132], "workplace": [1080, 1134] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "F",
+    "fullTime": { "reception": [229, 255], "workplace": [223, 258] },
+    "partTime": { "reception": [1172, 1252], "workplace": [1205, 1259] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "G",
+    "fullTime": { "reception": [296, 289], "workplace": [296, 291] },
+    "partTime": { "reception": [1177, 1241], "workplace": [1173, 1234] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "H",
+    "fullTime": { "reception": [226, 235], "workplace": [226, 237] },
+    "partTime": { "reception": [1127, 1189], "workplace": [1134, 1192] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "I",
+    "fullTime": { "reception": [225, 233], "workplace": [237, 243] },
+    "partTime": { "reception": [1101, 1150], "workplace": [1150, 1162] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "J",
+    "fullTime": { "reception": [236, 251], "workplace": [242, 253] },
+    "partTime": { "reception": [1089, 1145], "workplace": [1097, 1154] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "K",
+    "fullTime": { "reception": [235, 247], "workplace": [240, 249] },
+    "partTime": { "reception": [1117, 1146], "workplace": [1115, 1148] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "L",
+    "fullTime": { "reception": [264, 276], "workplace": [277, 294] },
+    "partTime": { "reception": [1185, 1235], "workplace": [1196, 1243] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "M",
+    "fullTime": { "reception": [233, 244], "workplace": [238, 247] },
+    "partTime": { "reception": [1103, 1152], "workplace": [1097, 1144] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "N",
+    "fullTime": { "reception": [225, 236], "workplace": [239, 248] },
+    "partTime": { "reception": [1110, 1175], "workplace": [1156, 1224] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "O",
+    "fullTime": { "reception": [213, 228], "workplace": [212, 226] },
+    "partTime": { "reception": [1188, 1259], "workplace": [1194, 1264] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "P",
+    "fullTime": { "reception": [222, 229], "workplace": [223, 230] },
+    "partTime": { "reception": [1193, 1239], "workplace": [1191, 1235] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "Q",
+    "fullTime": { "reception": [206, 222], "workplace": [203, 214] },
+    "partTime": { "reception": [1087, 1425], "workplace": [1088, 1422] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "R",
+    "fullTime": { "reception": [237, 243], "workplace": [233, 242] },
+    "partTime": { "reception": [1076, 1136], "workplace": [1079, 1138] }
+  },
+  {
+    "placeId": "JP-01",
+    "industryId": "ST",
+    "fullTime": { "reception": [218, 236], "workplace": [218, 237] },
+    "partTime": { "reception": [1316, 1398], "workplace": [1320, 1399] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "ALL",
+    "fullTime": { "reception": [214, 223], "workplace": [221, 232] },
+    "partTime": { "reception": [1059, 1128], "workplace": [1059, 1125] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "AB",
+    "fullTime": { "reception": [205, 218], "workplace": [206, 219] },
+    "partTime": { "reception": [1041, 1118], "workplace": [1045, 1118] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "C",
+    "fullTime": { "reception": [213, 221], "workplace": [214, 221] },
+    "partTime": { "reception": [null, 1113], "workplace": [null, 1113] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "D",
+    "fullTime": { "reception": [246, 254], "workplace": [256, 264] },
+    "partTime": { "reception": [1088, 1149], "workplace": [1087, 1156] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "E",
+    "fullTime": { "reception": [201, 209], "workplace": [204, 213] },
+    "partTime": { "reception": [983, 1050], "workplace": [980, 1048] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "F",
+    "fullTime": { "reception": [221, 214], "workplace": [239, 263] },
+    "partTime": { "reception": [967, 1036], "workplace": [968, 1036] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "G",
+    "fullTime": { "reception": [241, 249], "workplace": [249, 254] },
+    "partTime": { "reception": [985, 1087], "workplace": [1036, 1142] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "H",
+    "fullTime": { "reception": [199, 211], "workplace": [202, 214] },
+    "partTime": { "reception": [1023, 1094], "workplace": [1025, 1101] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "I",
+    "fullTime": { "reception": [210, 220], "workplace": [221, 231] },
+    "partTime": { "reception": [1024, 1077], "workplace": [1043, 1088] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "J",
+    "fullTime": { "reception": [212, 238], "workplace": [236, 236] },
+    "partTime": { "reception": [1029, 1156], "workplace": [1034, 1158] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "K",
+    "fullTime": { "reception": [222, 230], "workplace": [230, 234] },
+    "partTime": { "reception": [996, 1046], "workplace": [993, 1041] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "L",
+    "fullTime": { "reception": [228, 251], "workplace": [281, 317] },
+    "partTime": { "reception": [1021, 1097], "workplace": [1059, 1090] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "M",
+    "fullTime": { "reception": [213, 222], "workplace": [208, 225] },
+    "partTime": { "reception": [1002, 1065], "workplace": [994, 1054] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "N",
+    "fullTime": { "reception": [201, 209], "workplace": [216, 223] },
+    "partTime": { "reception": [1008, 1067], "workplace": [1020, 1074] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "O",
+    "fullTime": { "reception": [202, 213], "workplace": [203, 215] },
+    "partTime": { "reception": [1154, 1226], "workplace": [1181, 1226] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "P",
+    "fullTime": { "reception": [208, 216], "workplace": [207, 215] },
+    "partTime": { "reception": [1117, 1184], "workplace": [1119, 1188] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "Q",
+    "fullTime": { "reception": [178, 187], "workplace": [179, 188] },
+    "partTime": { "reception": [990, 1039], "workplace": [987, 1039] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "R",
+    "fullTime": { "reception": [199, 209], "workplace": [208, 217] },
+    "partTime": { "reception": [990, 1052], "workplace": [989, 1052] }
+  },
+  {
+    "placeId": "JP-02",
+    "industryId": "ST",
+    "fullTime": { "reception": [214, 234], "workplace": [216, 236] },
+    "partTime": { "reception": [1200, 1316], "workplace": [1201, 1319] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "ALL",
+    "fullTime": { "reception": [219, 227], "workplace": [226, 235] },
+    "partTime": { "reception": [1067, 1137], "workplace": [1082, 1142] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "AB",
+    "fullTime": { "reception": [213, 220], "workplace": [213, 222] },
+    "partTime": { "reception": [1108, 1199], "workplace": [1103, 1190] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "C",
+    "fullTime": { "reception": [223, 228], "workplace": [227, 232] },
+    "partTime": { "reception": [1425, null], "workplace": [1470, 1650] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "D",
+    "fullTime": { "reception": [251, 257], "workplace": [263, 267] },
+    "partTime": { "reception": [1098, 1183], "workplace": [1121, 1199] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "E",
+    "fullTime": { "reception": [203, 211], "workplace": [207, 213] },
+    "partTime": { "reception": [995, 1060], "workplace": [1000, 1059] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "F",
+    "fullTime": { "reception": [208, 210], "workplace": [208, 212] },
+    "partTime": { "reception": [1074, 1099], "workplace": [1074, 1099] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "G",
+    "fullTime": { "reception": [304, 303], "workplace": [280, 284] },
+    "partTime": { "reception": [1041, 1148], "workplace": [1129, 1296] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "H",
+    "fullTime": { "reception": [215, 225], "workplace": [216, 227] },
+    "partTime": { "reception": [1062, 1151], "workplace": [1060, 1140] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "I",
+    "fullTime": { "reception": [215, 223], "workplace": [234, 239] },
+    "partTime": { "reception": [1002, 1080], "workplace": [1041, 1087] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "J",
+    "fullTime": { "reception": [225, 226], "workplace": [252, 241] },
+    "partTime": { "reception": [1009, 1059], "workplace": [1020, 1073] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "K",
+    "fullTime": { "reception": [216, 231], "workplace": [230, 240] },
+    "partTime": { "reception": [1024, 1073], "workplace": [1019, 1073] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "L",
+    "fullTime": { "reception": [251, 276], "workplace": [294, 342] },
+    "partTime": { "reception": [1140, 1221], "workplace": [1121, 1208] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "M",
+    "fullTime": { "reception": [200, 214], "workplace": [208, 224] },
+    "partTime": { "reception": [1005, 1060], "workplace": [1004, 1058] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "N",
+    "fullTime": { "reception": [222, 233], "workplace": [231, 241] },
+    "partTime": { "reception": [1030, 1080], "workplace": [1070, 1128] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "O",
+    "fullTime": { "reception": [213, 229], "workplace": [215, 229] },
+    "partTime": { "reception": [1306, 1271], "workplace": [1325, 1282] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "P",
+    "fullTime": { "reception": [208, 215], "workplace": [210, 217] },
+    "partTime": { "reception": [1142, 1197], "workplace": [1144, 1194] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "Q",
+    "fullTime": { "reception": [182, 191], "workplace": [184, 194] },
+    "partTime": { "reception": [1004, 1048], "workplace": [1004, 1051] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "R",
+    "fullTime": { "reception": [218, 225], "workplace": [213, 221] },
+    "partTime": { "reception": [1008, 1057], "workplace": [1009, 1062] }
+  },
+  {
+    "placeId": "JP-03",
+    "industryId": "ST",
+    "fullTime": { "reception": [206, 221], "workplace": [212, 225] },
+    "partTime": { "reception": [1254, 1360], "workplace": [1254, 1361] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "ALL",
+    "fullTime": { "reception": [240, 249], "workplace": [245, 256] },
+    "partTime": { "reception": [1148, 1214], "workplace": [1148, 1212] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "AB",
+    "fullTime": { "reception": [221, 229], "workplace": [220, 229] },
+    "partTime": { "reception": [1044, 1092], "workplace": [1043, 1094] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "C",
+    "fullTime": { "reception": [233, 242], "workplace": [243, 246] },
+    "partTime": { "reception": [1650, 1200], "workplace": [1150, 1050] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "D",
+    "fullTime": { "reception": [289, 290], "workplace": [290, 295] },
+    "partTime": { "reception": [1143, 1217], "workplace": [1145, 1215] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "E",
+    "fullTime": { "reception": [215, 221], "workplace": [221, 227] },
+    "partTime": { "reception": [1017, 1075], "workplace": [1029, 1082] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "F",
+    "fullTime": { "reception": [230, 244], "workplace": [240, 245] },
+    "partTime": { "reception": [1165, 1205], "workplace": [1178, 1257] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "G",
+    "fullTime": { "reception": [292, 304], "workplace": [294, 304] },
+    "partTime": { "reception": [1146, 1232], "workplace": [1240, 1299] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "H",
+    "fullTime": { "reception": [223, 232], "workplace": [225, 235] },
+    "partTime": { "reception": [1093, 1168], "workplace": [1085, 1161] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "I",
+    "fullTime": { "reception": [235, 242], "workplace": [245, 249] },
+    "partTime": { "reception": [1140, 1178], "workplace": [1118, 1139] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "J",
+    "fullTime": { "reception": [178, 191], "workplace": [201, 217] },
+    "partTime": { "reception": [1024, 1103], "workplace": [1041, 1104] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "K",
+    "fullTime": { "reception": [234, 246], "workplace": [250, 259] },
+    "partTime": { "reception": [1053, 1113], "workplace": [1047, 1103] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "L",
+    "fullTime": { "reception": [295, 328], "workplace": [313, 352] },
+    "partTime": { "reception": [1109, 1176], "workplace": [1117, 1224] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "M",
+    "fullTime": { "reception": [244, 251], "workplace": [246, 255] },
+    "partTime": { "reception": [1041, 1088], "workplace": [1036, 1084] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "N",
+    "fullTime": { "reception": [235, 242], "workplace": [239, 257] },
+    "partTime": { "reception": [1148, 1176], "workplace": [1099, 1245] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "O",
+    "fullTime": { "reception": [216, 227], "workplace": [216, 228] },
+    "partTime": { "reception": [1279, 1355], "workplace": [1303, 1357] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "P",
+    "fullTime": { "reception": [228, 233], "workplace": [229, 234] },
+    "partTime": { "reception": [1223, 1283], "workplace": [1225, 1286] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "Q",
+    "fullTime": { "reception": [193, 203], "workplace": [191, 204] },
+    "partTime": { "reception": [1113, 1127], "workplace": [1122, 1106] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "R",
+    "fullTime": { "reception": [232, 245], "workplace": [232, 242] },
+    "partTime": { "reception": [1025, 1095], "workplace": [1034, 1100] }
+  },
+  {
+    "placeId": "JP-04",
+    "industryId": "ST",
+    "fullTime": { "reception": [233, 240], "workplace": [229, 236] },
+    "partTime": { "reception": [1336, 1451], "workplace": [1343, 1451] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "ALL",
+    "fullTime": { "reception": [217, 224], "workplace": [225, 232] },
+    "partTime": { "reception": [1075, 1135], "workplace": [1081, 1131] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "AB",
+    "fullTime": { "reception": [213, 224], "workplace": [216, 228] },
+    "partTime": { "reception": [1013, 1122], "workplace": [1019, 1127] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "C",
+    "fullTime": { "reception": [222, 221], "workplace": [221, 221] },
+    "partTime": { "reception": [1050, null], "workplace": [1050, null] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "D",
+    "fullTime": { "reception": [246, 252], "workplace": [258, 262] },
+    "partTime": { "reception": [1149, 1268], "workplace": [1145, 1252] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "E",
+    "fullTime": { "reception": [203, 209], "workplace": [204, 210] },
+    "partTime": { "reception": [990, 1037], "workplace": [989, 1033] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "F",
+    "fullTime": { "reception": [229, 226], "workplace": [230, 235] },
+    "partTime": { "reception": [1045, 1025], "workplace": [1037, 1025] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "G",
+    "fullTime": { "reception": [254, 266], "workplace": [256, 267] },
+    "partTime": { "reception": [1060, 1149], "workplace": [1124, 1175] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "H",
+    "fullTime": { "reception": [212, 222], "workplace": [214, 226] },
+    "partTime": { "reception": [1095, 1162], "workplace": [1103, 1171] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "I",
+    "fullTime": { "reception": [211, 218], "workplace": [226, 230] },
+    "partTime": { "reception": [1011, 1065], "workplace": [1034, 1066] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "J",
+    "fullTime": { "reception": [232, 244], "workplace": [240, 248] },
+    "partTime": { "reception": [1056, 1079], "workplace": [1058, 1083] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "K",
+    "fullTime": { "reception": [227, 240], "workplace": [234, 245] },
+    "partTime": { "reception": [1071, 1116], "workplace": [1072, 1097] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "L",
+    "fullTime": { "reception": [243, 253], "workplace": [295, 315] },
+    "partTime": { "reception": [1062, 1128], "workplace": [1088, 1157] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "M",
+    "fullTime": { "reception": [223, 236], "workplace": [214, 227] },
+    "partTime": { "reception": [1027, 1077], "workplace": [1010, 1050] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "N",
+    "fullTime": { "reception": [219, 221], "workplace": [232, 237] },
+    "partTime": { "reception": [1029, 1087], "workplace": [1056, 1116] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "O",
+    "fullTime": { "reception": [192, 204], "workplace": [195, 206] },
+    "partTime": { "reception": [1082, 1157], "workplace": [1121, 1165] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "P",
+    "fullTime": { "reception": [208, 213], "workplace": [209, 214] },
+    "partTime": { "reception": [1162, 1209], "workplace": [1164, 1214] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "Q",
+    "fullTime": { "reception": [182, 191], "workplace": [184, 197] },
+    "partTime": { "reception": [998, 1094], "workplace": [996, 1094] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "R",
+    "fullTime": { "reception": [202, 213], "workplace": [211, 221] },
+    "partTime": { "reception": [1013, 1063], "workplace": [1041, 1076] }
+  },
+  {
+    "placeId": "JP-05",
+    "industryId": "ST",
+    "fullTime": { "reception": [218, 230], "workplace": [219, 230] },
+    "partTime": { "reception": [1188, 1296], "workplace": [1188, 1297] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "ALL",
+    "fullTime": { "reception": [222, 229], "workplace": [228, 235] },
+    "partTime": { "reception": [1085, 1152], "workplace": [1095, 1158] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "AB",
+    "fullTime": { "reception": [217, 222], "workplace": [218, 224] },
+    "partTime": { "reception": [1105, 1128], "workplace": [1061, 1130] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "C",
+    "fullTime": { "reception": [245, 250], "workplace": [264, 250] },
+    "partTime": { "reception": [1550, null], "workplace": [1550, null] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "D",
+    "fullTime": { "reception": [261, 267], "workplace": [270, 275] },
+    "partTime": { "reception": [1138, 1209], "workplace": [1136, 1209] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "E",
+    "fullTime": { "reception": [212, 219], "workplace": [211, 218] },
+    "partTime": { "reception": [1004, 1073], "workplace": [1005, 1075] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "F",
+    "fullTime": { "reception": [223, 226], "workplace": [224, 228] },
+    "partTime": { "reception": [971, 1075], "workplace": [971, 1057] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "G",
+    "fullTime": { "reception": [245, 245], "workplace": [263, 261] },
+    "partTime": { "reception": [1084, 1253], "workplace": [1135, 1321] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "H",
+    "fullTime": { "reception": [220, 230], "workplace": [220, 230] },
+    "partTime": { "reception": [1044, 1127], "workplace": [1058, 1142] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "I",
+    "fullTime": { "reception": [215, 224], "workplace": [228, 236] },
+    "partTime": { "reception": [1033, 1091], "workplace": [1050, 1098] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "J",
+    "fullTime": { "reception": [216, 220], "workplace": [229, 230] },
+    "partTime": { "reception": [996, 1084], "workplace": [1009, 1097] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "K",
+    "fullTime": { "reception": [230, 243], "workplace": [241, 247] },
+    "partTime": { "reception": [1046, 1099], "workplace": [1044, 1121] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "L",
+    "fullTime": { "reception": [236, 237], "workplace": [287, 306] },
+    "partTime": { "reception": [1143, 1242], "workplace": [1121, 1233] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "M",
+    "fullTime": { "reception": [219, 227], "workplace": [223, 233] },
+    "partTime": { "reception": [1025, 1091], "workplace": [1023, 1081] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "N",
+    "fullTime": { "reception": [215, 223], "workplace": [232, 239] },
+    "partTime": { "reception": [1021, 1066], "workplace": [1067, 1115] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "O",
+    "fullTime": { "reception": [200, 211], "workplace": [201, 213] },
+    "partTime": { "reception": [1188, 1270], "workplace": [1223, 1268] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "P",
+    "fullTime": { "reception": [218, 223], "workplace": [216, 222] },
+    "partTime": { "reception": [1171, 1232], "workplace": [1179, 1234] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "Q",
+    "fullTime": { "reception": [184, 192], "workplace": [181, 192] },
+    "partTime": { "reception": [1005, 1051], "workplace": [996, 1040] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "R",
+    "fullTime": { "reception": [201, 210], "workplace": [210, 217] },
+    "partTime": { "reception": [1019, 1070], "workplace": [1022, 1075] }
+  },
+  {
+    "placeId": "JP-06",
+    "industryId": "ST",
+    "fullTime": { "reception": [217, 232], "workplace": [221, 239] },
+    "partTime": { "reception": [1271, 1373], "workplace": [1270, 1385] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "ALL",
+    "fullTime": { "reception": [229, 238], "workplace": [237, 245] },
+    "partTime": { "reception": [1098, 1163], "workplace": [1109, 1168] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "AB",
+    "fullTime": { "reception": [220, 231], "workplace": [226, 237] },
+    "partTime": { "reception": [1048, 1127], "workplace": [1054, 1133] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "C",
+    "fullTime": { "reception": [258, 257], "workplace": [241, 248] },
+    "partTime": { "reception": [1090, 1051], "workplace": [1185, 1181] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "D",
+    "fullTime": { "reception": [277, 284], "workplace": [284, 290] },
+    "partTime": { "reception": [1108, 1165], "workplace": [1122, 1179] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "E",
+    "fullTime": { "reception": [218, 224], "workplace": [220, 227] },
+    "partTime": { "reception": [1017, 1124], "workplace": [1018, 1121] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "F",
+    "fullTime": { "reception": [236, 240], "workplace": [230, 241] },
+    "partTime": { "reception": [1076, 1139], "workplace": [1104, 1147] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "G",
+    "fullTime": { "reception": [258, 290], "workplace": [269, 291] },
+    "partTime": { "reception": [1083, 1140], "workplace": [1094, 1144] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "H",
+    "fullTime": { "reception": [232, 237], "workplace": [232, 237] },
+    "partTime": { "reception": [1056, 1121], "workplace": [1052, 1122] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "I",
+    "fullTime": { "reception": [220, 230], "workplace": [241, 245] },
+    "partTime": { "reception": [1057, 1102], "workplace": [1098, 1107] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "J",
+    "fullTime": { "reception": [224, 245], "workplace": [234, 248] },
+    "partTime": { "reception": [1081, 1131], "workplace": [1081, 1136] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "K",
+    "fullTime": { "reception": [252, 260], "workplace": [252, 256] },
+    "partTime": { "reception": [1021, 1080], "workplace": [1011, 1079] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "L",
+    "fullTime": { "reception": [265, 271], "workplace": [288, 305] },
+    "partTime": { "reception": [1134, 1186], "workplace": [1183, 1204] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "M",
+    "fullTime": { "reception": [230, 240], "workplace": [236, 245] },
+    "partTime": { "reception": [1053, 1102], "workplace": [1029, 1076] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "N",
+    "fullTime": { "reception": [223, 231], "workplace": [231, 256] },
+    "partTime": { "reception": [1074, 1134], "workplace": [1089, 1294] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "O",
+    "fullTime": { "reception": [212, 221], "workplace": [213, 220] },
+    "partTime": { "reception": [1200, 1269], "workplace": [1238, 1267] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "P",
+    "fullTime": { "reception": [217, 225], "workplace": [218, 227] },
+    "partTime": { "reception": [1155, 1210], "workplace": [1171, 1213] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "Q",
+    "fullTime": { "reception": [192, 198], "workplace": [191, 199] },
+    "partTime": { "reception": [993, 1042], "workplace": [994, 1043] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "R",
+    "fullTime": { "reception": [204, 212], "workplace": [212, 218] },
+    "partTime": { "reception": [1049, 1096], "workplace": [1046, 1100] }
+  },
+  {
+    "placeId": "JP-07",
+    "industryId": "ST",
+    "fullTime": { "reception": [208, 229], "workplace": [214, 231] },
+    "partTime": { "reception": [1226, 1347], "workplace": [1220, 1335] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "ALL",
+    "fullTime": { "reception": [250, 257], "workplace": [253, 260] },
+    "partTime": { "reception": [1195, 1248], "workplace": [1195, 1241] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "AB",
+    "fullTime": { "reception": [239, 249], "workplace": [237, 245] },
+    "partTime": { "reception": [1097, 1156], "workplace": [1101, 1159] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "C",
+    "fullTime": { "reception": [252, 258], "workplace": [256, 264] },
+    "partTime": { "reception": [1234, 1331], "workplace": [1167, 1280] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "D",
+    "fullTime": { "reception": [296, 304], "workplace": [303, 311] },
+    "partTime": { "reception": [1210, 1279], "workplace": [1211, 1281] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "E",
+    "fullTime": { "reception": [236, 242], "workplace": [238, 243] },
+    "partTime": { "reception": [1090, 1141], "workplace": [1095, 1146] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "F",
+    "fullTime": { "reception": [253, 252], "workplace": [262, 258] },
+    "partTime": { "reception": [1216, 1540], "workplace": [1192, 1336] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "G",
+    "fullTime": { "reception": [281, 290], "workplace": [281, 293] },
+    "partTime": { "reception": [1210, 1348], "workplace": [1193, 1330] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "H",
+    "fullTime": { "reception": [254, 264], "workplace": [252, 262] },
+    "partTime": { "reception": [1181, 1231], "workplace": [1189, 1233] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "I",
+    "fullTime": { "reception": [254, 265], "workplace": [255, 262] },
+    "partTime": { "reception": [1163, 1222], "workplace": [1180, 1202] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "J",
+    "fullTime": { "reception": [255, 261], "workplace": [270, 265] },
+    "partTime": { "reception": [1078, 1133], "workplace": [1081, 1131] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "K",
+    "fullTime": { "reception": [273, 279], "workplace": [271, 280] },
+    "partTime": { "reception": [1195, 1223], "workplace": [1148, 1195] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "L",
+    "fullTime": { "reception": [269, 277], "workplace": [295, 300] },
+    "partTime": { "reception": [1203, 1292], "workplace": [1246, 1315] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "M",
+    "fullTime": { "reception": [252, 255], "workplace": [247, 256] },
+    "partTime": { "reception": [1102, 1162], "workplace": [1075, 1124] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "N",
+    "fullTime": { "reception": [282, 287], "workplace": [260, 267] },
+    "partTime": { "reception": [1130, 1177], "workplace": [1208, 1267] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "O",
+    "fullTime": { "reception": [240, 243], "workplace": [240, 245] },
+    "partTime": { "reception": [1282, 1353], "workplace": [1324, 1366] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "P",
+    "fullTime": { "reception": [238, 243], "workplace": [237, 244] },
+    "partTime": { "reception": [1236, 1280], "workplace": [1234, 1277] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "Q",
+    "fullTime": { "reception": [189, 200], "workplace": [189, 200] },
+    "partTime": { "reception": [1073, 1114], "workplace": [1073, 1113] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "R",
+    "fullTime": { "reception": [237, 246], "workplace": [238, 249] },
+    "partTime": { "reception": [1188, 1236], "workplace": [1176, 1219] }
+  },
+  {
+    "placeId": "JP-08",
+    "industryId": "ST",
+    "fullTime": { "reception": [218, 234], "workplace": [217, 230] },
+    "partTime": { "reception": [1301, 1415], "workplace": [1301, 1422] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "ALL",
+    "fullTime": { "reception": [248, 257], "workplace": [252, 259] },
+    "partTime": { "reception": [1189, 1240], "workplace": [1176, 1226] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "AB",
+    "fullTime": { "reception": [247, 252], "workplace": [243, 246] },
+    "partTime": { "reception": [1079, 1123], "workplace": [1076, 1124] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "C",
+    "fullTime": { "reception": [271, 272], "workplace": [269, 266] },
+    "partTime": { "reception": [1185, 1151], "workplace": [1229, 1300] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "D",
+    "fullTime": { "reception": [295, 301], "workplace": [301, 309] },
+    "partTime": { "reception": [1227, 1296], "workplace": [1230, 1302] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "E",
+    "fullTime": { "reception": [235, 241], "workplace": [235, 241] },
+    "partTime": { "reception": [1076, 1131], "workplace": [1079, 1134] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "F",
+    "fullTime": { "reception": [243, 250], "workplace": [251, 252] },
+    "partTime": { "reception": [1190, 1226], "workplace": [1189, 1235] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "G",
+    "fullTime": { "reception": [271, 277], "workplace": [286, 305] },
+    "partTime": { "reception": [1183, 1267], "workplace": [1187, 1273] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "H",
+    "fullTime": { "reception": [249, 254], "workplace": [250, 259] },
+    "partTime": { "reception": [1141, 1184], "workplace": [1148, 1204] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "I",
+    "fullTime": { "reception": [250, 261], "workplace": [255, 263] },
+    "partTime": { "reception": [1180, 1280], "workplace": [1173, 1239] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "J",
+    "fullTime": { "reception": [248, 240], "workplace": [264, 259] },
+    "partTime": { "reception": [1170, 1217], "workplace": [1159, 1210] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "K",
+    "fullTime": { "reception": [254, 260], "workplace": [263, 270] },
+    "partTime": { "reception": [1124, 1157], "workplace": [1120, 1160] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "L",
+    "fullTime": { "reception": [269, 272], "workplace": [291, 285] },
+    "partTime": { "reception": [1178, 1216], "workplace": [1169, 1221] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "M",
+    "fullTime": { "reception": [240, 250], "workplace": [258, 264] },
+    "partTime": { "reception": [1114, 1147], "workplace": [1100, 1135] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "N",
+    "fullTime": { "reception": [233, 245], "workplace": [240, 248] },
+    "partTime": { "reception": [1120, 1170], "workplace": [1124, 1181] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "O",
+    "fullTime": { "reception": [239, 241], "workplace": [240, 243] },
+    "partTime": { "reception": [1238, 1337], "workplace": [1267, 1348] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "P",
+    "fullTime": { "reception": [239, 254], "workplace": [236, 246] },
+    "partTime": { "reception": [1251, 1285], "workplace": [1238, 1272] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "Q",
+    "fullTime": { "reception": [189, 210], "workplace": [189, 211] },
+    "partTime": { "reception": [1095, 1210], "workplace": [1105, 1217] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "R",
+    "fullTime": { "reception": [230, 237], "workplace": [244, 250] },
+    "partTime": { "reception": [1096, 1160], "workplace": [1101, 1159] }
+  },
+  {
+    "placeId": "JP-09",
+    "industryId": "ST",
+    "fullTime": { "reception": [216, 228], "workplace": [216, 227] },
+    "partTime": { "reception": [1332, 1457], "workplace": [1350, 1457] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "ALL",
+    "fullTime": { "reception": [250, 257], "workplace": [252, 259] },
+    "partTime": { "reception": [1146, 1201], "workplace": [1144, 1193] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "AB",
+    "fullTime": { "reception": [238, 245], "workplace": [244, 253] },
+    "partTime": { "reception": [1060, 1120], "workplace": [1062, 1121] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "C",
+    "fullTime": { "reception": [253, 272], "workplace": [268, 260] },
+    "partTime": { "reception": [1000, null], "workplace": [1000, 1131] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "D",
+    "fullTime": { "reception": [295, 305], "workplace": [304, 312] },
+    "partTime": { "reception": [1237, 1262], "workplace": [1232, 1255] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "E",
+    "fullTime": { "reception": [239, 243], "workplace": [239, 244] },
+    "partTime": { "reception": [1068, 1115], "workplace": [1068, 1117] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "F",
+    "fullTime": { "reception": [271, 279], "workplace": [264, 259] },
+    "partTime": { "reception": [1104, 1194], "workplace": [1104, 1194] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "G",
+    "fullTime": { "reception": [279, 279], "workplace": [281, 292] },
+    "partTime": { "reception": [1115, 1109], "workplace": [1179, 1163] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "H",
+    "fullTime": { "reception": [247, 256], "workplace": [245, 253] },
+    "partTime": { "reception": [1134, 1179], "workplace": [1128, 1167] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "I",
+    "fullTime": { "reception": [243, 253], "workplace": [251, 260] },
+    "partTime": { "reception": [1126, 1200], "workplace": [1108, 1168] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "J",
+    "fullTime": { "reception": [250, 263], "workplace": [262, 278] },
+    "partTime": { "reception": [1086, 1149], "workplace": [1092, 1149] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "K",
+    "fullTime": { "reception": [256, 263], "workplace": [268, 279] },
+    "partTime": { "reception": [1150, 1204], "workplace": [1122, 1193] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "L",
+    "fullTime": { "reception": [272, 283], "workplace": [287, 289] },
+    "partTime": { "reception": [1145, 1189], "workplace": [1212, 1218] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "M",
+    "fullTime": { "reception": [248, 254], "workplace": [249, 261] },
+    "partTime": { "reception": [1088, 1131], "workplace": [1086, 1116] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "N",
+    "fullTime": { "reception": [249, 259], "workplace": [258, 269] },
+    "partTime": { "reception": [1122, 1169], "workplace": [1144, 1225] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "O",
+    "fullTime": { "reception": [233, 246], "workplace": [231, 245] },
+    "partTime": { "reception": [1193, 1309], "workplace": [1217, 1306] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "P",
+    "fullTime": { "reception": [233, 238], "workplace": [233, 238] },
+    "partTime": { "reception": [1201, 1243], "workplace": [1199, 1242] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "Q",
+    "fullTime": { "reception": [197, 207], "workplace": [196, 210] },
+    "partTime": { "reception": [1072, 1122], "workplace": [1066, 1120] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "R",
+    "fullTime": { "reception": [273, 280], "workplace": [257, 264] },
+    "partTime": { "reception": [1080, 1133], "workplace": [1085, 1137] }
+  },
+  {
+    "placeId": "JP-10",
+    "industryId": "ST",
+    "fullTime": { "reception": [201, 218], "workplace": [199, 214] },
+    "partTime": { "reception": [1217, 1335], "workplace": [1218, 1334] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "ALL",
+    "fullTime": { "reception": [268, 277], "workplace": [269, 277] },
+    "partTime": { "reception": [1261, 1309], "workplace": [1261, 1305] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "AB",
+    "fullTime": { "reception": [276, 278], "workplace": [273, 271] },
+    "partTime": { "reception": [1178, 1217], "workplace": [1166, 1212] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "C",
+    "fullTime": { "reception": [258, 253], "workplace": [256, 257] },
+    "partTime": { "reception": [null, null], "workplace": [null, 1140] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "D",
+    "fullTime": { "reception": [335, 346], "workplace": [323, 333] },
+    "partTime": { "reception": [1358, 1396], "workplace": [1352, 1395] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "E",
+    "fullTime": { "reception": [254, 260], "workplace": [255, 262] },
+    "partTime": { "reception": [1169, 1222], "workplace": [1170, 1226] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "F",
+    "fullTime": { "reception": [260, 279], "workplace": [263, 269] },
+    "partTime": { "reception": [1199, 1318], "workplace": [1208, 1302] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "G",
+    "fullTime": { "reception": [325, 342], "workplace": [318, 337] },
+    "partTime": { "reception": [1260, 1279], "workplace": [1274, 1289] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "H",
+    "fullTime": { "reception": [265, 274], "workplace": [264, 273] },
+    "partTime": { "reception": [1207, 1261], "workplace": [1225, 1290] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "I",
+    "fullTime": { "reception": [267, 281], "workplace": [269, 279] },
+    "partTime": { "reception": [1211, 1249], "workplace": [1234, 1259] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "J",
+    "fullTime": { "reception": [255, 266], "workplace": [272, 281] },
+    "partTime": { "reception": [1253, 1292], "workplace": [1265, 1313] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "K",
+    "fullTime": { "reception": [277, 298], "workplace": [272, 284] },
+    "partTime": { "reception": [1201, 1247], "workplace": [1218, 1253] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "L",
+    "fullTime": { "reception": [300, 307], "workplace": [336, 346] },
+    "partTime": { "reception": [1321, 1357], "workplace": [1314, 1338] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "M",
+    "fullTime": { "reception": [254, 269], "workplace": [257, 268] },
+    "partTime": { "reception": [1159, 1201], "workplace": [1131, 1163] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "N",
+    "fullTime": { "reception": [262, 264], "workplace": [281, 288] },
+    "partTime": { "reception": [1208, 1251], "workplace": [1283, 1345] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "O",
+    "fullTime": { "reception": [238, 244], "workplace": [239, 245] },
+    "partTime": { "reception": [1322, 1368], "workplace": [1326, 1340] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "P",
+    "fullTime": { "reception": [250, 256], "workplace": [251, 258] },
+    "partTime": { "reception": [1314, 1354], "workplace": [1324, 1367] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "Q",
+    "fullTime": { "reception": [230, 242], "workplace": [223, 238] },
+    "partTime": { "reception": [1253, 1331], "workplace": [1180, 1259] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "R",
+    "fullTime": { "reception": [265, 264], "workplace": [259, 263] },
+    "partTime": { "reception": [1193, 1248], "workplace": [1196, 1249] }
+  },
+  {
+    "placeId": "JP-11",
+    "industryId": "ST",
+    "fullTime": { "reception": [232, 251], "workplace": [224, 235] },
+    "partTime": { "reception": [1369, 1474], "workplace": [1367, 1471] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "ALL",
+    "fullTime": { "reception": [267, 274], "workplace": [269, 277] },
+    "partTime": { "reception": [1267, 1322], "workplace": [1270, 1318] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "AB",
+    "fullTime": { "reception": [244, 251], "workplace": [244, 251] },
+    "partTime": { "reception": [1145, 1194], "workplace": [1150, 1197] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "C",
+    "fullTime": { "reception": [246, 263], "workplace": [286, 279] },
+    "partTime": { "reception": [1405, 1378], "workplace": [1469, 1378] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "D",
+    "fullTime": { "reception": [316, 325], "workplace": [321, 330] },
+    "partTime": { "reception": [1313, 1363], "workplace": [1348, 1363] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "E",
+    "fullTime": { "reception": [258, 262], "workplace": [255, 261] },
+    "partTime": { "reception": [1169, 1223], "workplace": [1189, 1237] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "F",
+    "fullTime": { "reception": [264, 287], "workplace": [259, 266] },
+    "partTime": { "reception": [1187, 1232], "workplace": [1188, 1248] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "G",
+    "fullTime": { "reception": [337, 345], "workplace": [324, 329] },
+    "partTime": { "reception": [1335, 1391], "workplace": [1323, 1366] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "H",
+    "fullTime": { "reception": [257, 264], "workplace": [259, 268] },
+    "partTime": { "reception": [1235, 1297], "workplace": [1251, 1310] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "I",
+    "fullTime": { "reception": [262, 265], "workplace": [266, 271] },
+    "partTime": { "reception": [1208, 1244], "workplace": [1225, 1242] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "J",
+    "fullTime": { "reception": [248, 271], "workplace": [266, 277] },
+    "partTime": { "reception": [1149, 1304], "workplace": [1177, 1312] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "K",
+    "fullTime": { "reception": [260, 268], "workplace": [269, 276] },
+    "partTime": { "reception": [1226, 1275], "workplace": [1212, 1260] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "L",
+    "fullTime": { "reception": [336, 343], "workplace": [347, 358] },
+    "partTime": { "reception": [1303, 1383], "workplace": [1310, 1361] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "M",
+    "fullTime": { "reception": [246, 268], "workplace": [257, 270] },
+    "partTime": { "reception": [1180, 1230], "workplace": [1146, 1186] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "N",
+    "fullTime": { "reception": [260, 276], "workplace": [271, 283] },
+    "partTime": { "reception": [1190, 1246], "workplace": [1270, 1340] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "O",
+    "fullTime": { "reception": [250, 258], "workplace": [247, 256] },
+    "partTime": { "reception": [1383, 1446], "workplace": [1363, 1417] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "P",
+    "fullTime": { "reception": [249, 254], "workplace": [252, 259] },
+    "partTime": { "reception": [1325, 1378], "workplace": [1336, 1385] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "Q",
+    "fullTime": { "reception": [208, 220], "workplace": [214, 227] },
+    "partTime": { "reception": [1136, 1244], "workplace": [1222, 1323] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "R",
+    "fullTime": { "reception": [246, 254], "workplace": [247, 256] },
+    "partTime": { "reception": [1192, 1245], "workplace": [1195, 1251] }
+  },
+  {
+    "placeId": "JP-12",
+    "industryId": "ST",
+    "fullTime": { "reception": [236, 256], "workplace": [242, 256] },
+    "partTime": { "reception": [1405, 1494], "workplace": [1404, 1496] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "ALL",
+    "fullTime": { "reception": [280, 288], "workplace": [288, 298] },
+    "partTime": { "reception": [1304, 1339], "workplace": [1374, 1420] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "AB",
+    "fullTime": { "reception": [278, 294], "workplace": [285, 301] },
+    "partTime": { "reception": [1193, 1316], "workplace": [1342, 1483] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "C",
+    "fullTime": { "reception": [277, 261], "workplace": [265, 268] },
+    "partTime": { "reception": [1278, 1448], "workplace": [1343, 1306] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "D",
+    "fullTime": { "reception": [323, 330], "workplace": [329, 342] },
+    "partTime": { "reception": [1446, 1458], "workplace": [1477, 1504] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "E",
+    "fullTime": { "reception": [264, 270], "workplace": [272, 278] },
+    "partTime": { "reception": [1251, 1303], "workplace": [1288, 1336] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "F",
+    "fullTime": { "reception": [258, 255], "workplace": [273, 274] },
+    "partTime": { "reception": [1390, 1444], "workplace": [1367, 1295] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "G",
+    "fullTime": { "reception": [342, 354], "workplace": [348, 359] },
+    "partTime": { "reception": [1372, 1413], "workplace": [1414, 1460] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "H",
+    "fullTime": { "reception": [255, 264], "workplace": [260, 269] },
+    "partTime": { "reception": [1331, 1393], "workplace": [1342, 1400] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "I",
+    "fullTime": { "reception": [274, 279], "workplace": [274, 280] },
+    "partTime": { "reception": [1305, 1298], "workplace": [1326, 1361] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "J",
+    "fullTime": { "reception": [282, 281], "workplace": [267, 267] },
+    "partTime": { "reception": [1275, 1348], "workplace": [1306, 1380] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "K",
+    "fullTime": { "reception": [273, 278], "workplace": [273, 284] },
+    "partTime": { "reception": [1281, 1333], "workplace": [1317, 1368] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "L",
+    "fullTime": { "reception": [322, 335], "workplace": [325, 336] },
+    "partTime": { "reception": [1406, 1432], "workplace": [1435, 1467] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "M",
+    "fullTime": { "reception": [266, 273], "workplace": [281, 289] },
+    "partTime": { "reception": [1124, 1159], "workplace": [1247, 1277] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "N",
+    "fullTime": { "reception": [266, 272], "workplace": [281, 290] },
+    "partTime": { "reception": [1248, 1285], "workplace": [1363, 1414] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "O",
+    "fullTime": { "reception": [250, 262], "workplace": [258, 270] },
+    "partTime": { "reception": [1486, 1555], "workplace": [1578, 1630] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "P",
+    "fullTime": { "reception": [261, 269], "workplace": [266, 276] },
+    "partTime": { "reception": [1413, 1453], "workplace": [1463, 1510] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "Q",
+    "fullTime": { "reception": [230, 241], "workplace": [230, 242] },
+    "partTime": { "reception": [1274, 1315], "workplace": [1299, 1340] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "R",
+    "fullTime": { "reception": [260, 268], "workplace": [264, 271] },
+    "partTime": { "reception": [1251, 1312], "workplace": [1283, 1339] }
+  },
+  {
+    "placeId": "JP-13",
+    "industryId": "ST",
+    "fullTime": { "reception": [222, 229], "workplace": [246, 261] },
+    "partTime": { "reception": [1634, 1742], "workplace": [1639, 1743] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "ALL",
+    "fullTime": { "reception": [281, 289], "workplace": [279, 288] },
+    "partTime": { "reception": [1354, 1408], "workplace": [1355, 1403] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "AB",
+    "fullTime": { "reception": [263, 263], "workplace": [272, 276] },
+    "partTime": { "reception": [1260, 1317], "workplace": [1218, 1286] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "C",
+    "fullTime": { "reception": [242, 255], "workplace": [251, 267] },
+    "partTime": { "reception": [1306, 1170], "workplace": [1274, 1170] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "D",
+    "fullTime": { "reception": [330, 337], "workplace": [333, 340] },
+    "partTime": { "reception": [1417, 1499], "workplace": [1427, 1490] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "E",
+    "fullTime": { "reception": [263, 272], "workplace": [262, 271] },
+    "partTime": { "reception": [1247, 1294], "workplace": [1264, 1308] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "F",
+    "fullTime": { "reception": [271, 284], "workplace": [263, 266] },
+    "partTime": { "reception": [1286, 1355], "workplace": [1312, 1367] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "G",
+    "fullTime": { "reception": [347, 356], "workplace": [335, 348] },
+    "partTime": { "reception": [1341, 1481], "workplace": [1374, 1503] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "H",
+    "fullTime": { "reception": [256, 266], "workplace": [259, 270] },
+    "partTime": { "reception": [1286, 1329], "workplace": [1298, 1358] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "I",
+    "fullTime": { "reception": [263, 274], "workplace": [268, 274] },
+    "partTime": { "reception": [1302, 1340], "workplace": [1320, 1341] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "J",
+    "fullTime": { "reception": [261, 279], "workplace": [259, 266] },
+    "partTime": { "reception": [1275, 1290], "workplace": [1277, 1316] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "K",
+    "fullTime": { "reception": [293, 300], "workplace": [276, 285] },
+    "partTime": { "reception": [1252, 1291], "workplace": [1248, 1292] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "L",
+    "fullTime": { "reception": [312, 317], "workplace": [333, 341] },
+    "partTime": { "reception": [1411, 1453], "workplace": [1427, 1442] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "M",
+    "fullTime": { "reception": [265, 279], "workplace": [270, 277] },
+    "partTime": { "reception": [1197, 1234], "workplace": [1208, 1250] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "N",
+    "fullTime": { "reception": [288, 292], "workplace": [278, 285] },
+    "partTime": { "reception": [1301, 1345], "workplace": [1353, 1402] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "O",
+    "fullTime": { "reception": [245, 255], "workplace": [245, 254] },
+    "partTime": { "reception": [1413, 1469], "workplace": [1467, 1529] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "P",
+    "fullTime": { "reception": [271, 278], "workplace": [269, 276] },
+    "partTime": { "reception": [1432, 1488], "workplace": [1426, 1479] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "Q",
+    "fullTime": { "reception": [223, 237], "workplace": [224, 236] },
+    "partTime": { "reception": [1270, 1301], "workplace": [1275, 1303] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "R",
+    "fullTime": { "reception": [272, 275], "workplace": [261, 270] },
+    "partTime": { "reception": [1259, 1313], "workplace": [1269, 1319] }
+  },
+  {
+    "placeId": "JP-14",
+    "industryId": "ST",
+    "fullTime": { "reception": [241, 268], "workplace": [234, 254] },
+    "partTime": { "reception": [1470, 1616], "workplace": [1470, 1613] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "ALL",
+    "fullTime": { "reception": [237, 245], "workplace": [239, 246] },
+    "partTime": { "reception": [1122, 1178], "workplace": [1118, 1177] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "AB",
+    "fullTime": { "reception": [211, 223], "workplace": [211, 223] },
+    "partTime": { "reception": [1080, 1136], "workplace": [1077, 1133] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "C",
+    "fullTime": { "reception": [246, 251], "workplace": [246, 251] },
+    "partTime": { "reception": [1211, 1283], "workplace": [1211, 1283] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "D",
+    "fullTime": { "reception": [270, 277], "workplace": [271, 278] },
+    "partTime": { "reception": [1170, 1226], "workplace": [1168, 1219] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "E",
+    "fullTime": { "reception": [221, 229], "workplace": [221, 229] },
+    "partTime": { "reception": [1036, 1096], "workplace": [1033, 1092] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "F",
+    "fullTime": { "reception": [242, 236], "workplace": [239, 234] },
+    "partTime": { "reception": [1036, 1163], "workplace": [1036, 1163] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "G",
+    "fullTime": { "reception": [276, 284], "workplace": [269, 280] },
+    "partTime": { "reception": [1114, 1160], "workplace": [1138, 1248] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "H",
+    "fullTime": { "reception": [235, 241], "workplace": [240, 247] },
+    "partTime": { "reception": [1081, 1139], "workplace": [1086, 1138] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "I",
+    "fullTime": { "reception": [228, 236], "workplace": [241, 248] },
+    "partTime": { "reception": [1089, 1150], "workplace": [1092, 1141] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "J",
+    "fullTime": { "reception": [243, 253], "workplace": [248, 254] },
+    "partTime": { "reception": [1074, 1170], "workplace": [1099, 1173] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "K",
+    "fullTime": { "reception": [242, 243], "workplace": [249, 250] },
+    "partTime": { "reception": [1075, 1134], "workplace": [1068, 1114] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "L",
+    "fullTime": { "reception": [302, 312], "workplace": [276, 285] },
+    "partTime": { "reception": [1137, 1231], "workplace": [1147, 1234] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "M",
+    "fullTime": { "reception": [225, 233], "workplace": [229, 238] },
+    "partTime": { "reception": [1053, 1111], "workplace": [1047, 1101] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "N",
+    "fullTime": { "reception": [223, 230], "workplace": [232, 245] },
+    "partTime": { "reception": [1159, 1196], "workplace": [1094, 1212] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "O",
+    "fullTime": { "reception": [226, 238], "workplace": [224, 237] },
+    "partTime": { "reception": [1410, 1345], "workplace": [1369, 1348] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "P",
+    "fullTime": { "reception": [223, 230], "workplace": [225, 232] },
+    "partTime": { "reception": [1186, 1242], "workplace": [1190, 1242] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "Q",
+    "fullTime": { "reception": [190, 197], "workplace": [192, 198] },
+    "partTime": { "reception": [1015, 1063], "workplace": [1017, 1064] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "R",
+    "fullTime": { "reception": [232, 241], "workplace": [223, 233] },
+    "partTime": { "reception": [1056, 1108], "workplace": [1059, 1112] }
+  },
+  {
+    "placeId": "JP-15",
+    "industryId": "ST",
+    "fullTime": { "reception": [210, 228], "workplace": [214, 229] },
+    "partTime": { "reception": [1202, 1312], "workplace": [1201, 1311] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "ALL",
+    "fullTime": { "reception": [243, 252], "workplace": [245, 255] },
+    "partTime": { "reception": [1153, 1201], "workplace": [1154, 1203] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "AB",
+    "fullTime": { "reception": [226, 235], "workplace": [230, 240] },
+    "partTime": { "reception": [1107, 1167], "workplace": [1107, 1167] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "C",
+    "fullTime": { "reception": [288, 285], "workplace": [288, 284] },
+    "partTime": { "reception": [1419, 1614], "workplace": [1419, 1614] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "D",
+    "fullTime": { "reception": [282, 290], "workplace": [285, 293] },
+    "partTime": { "reception": [1230, 1324], "workplace": [1256, 1354] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "E",
+    "fullTime": { "reception": [234, 240], "workplace": [233, 240] },
+    "partTime": { "reception": [1075, 1130], "workplace": [1073, 1127] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "F",
+    "fullTime": { "reception": [218, 214], "workplace": [224, 222] },
+    "partTime": { "reception": [1205, 1271], "workplace": [1205, 1271] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "G",
+    "fullTime": { "reception": [273, 282], "workplace": [278, 285] },
+    "partTime": { "reception": [1177, 1214], "workplace": [1204, 1205] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "H",
+    "fullTime": { "reception": [248, 256], "workplace": [247, 255] },
+    "partTime": { "reception": [1178, 1222], "workplace": [1180, 1225] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "I",
+    "fullTime": { "reception": [244, 254], "workplace": [244, 252] },
+    "partTime": { "reception": [1123, 1166], "workplace": [1129, 1178] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "J",
+    "fullTime": { "reception": [241, 247], "workplace": [245, 250] },
+    "partTime": { "reception": [1063, 1138], "workplace": [1068, 1155] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "K",
+    "fullTime": { "reception": [258, 260], "workplace": [251, 258] },
+    "partTime": { "reception": [1118, 1140], "workplace": [1127, 1140] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "L",
+    "fullTime": { "reception": [261, 272], "workplace": [287, 324] },
+    "partTime": { "reception": [1145, 1213], "workplace": [1174, 1240] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "M",
+    "fullTime": { "reception": [235, 247], "workplace": [238, 253] },
+    "partTime": { "reception": [1104, 1149], "workplace": [1100, 1142] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "N",
+    "fullTime": { "reception": [226, 234], "workplace": [242, 252] },
+    "partTime": { "reception": [1096, 1145], "workplace": [1120, 1196] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "O",
+    "fullTime": { "reception": [224, 234], "workplace": [225, 239] },
+    "partTime": { "reception": [1252, 1271], "workplace": [1265, 1271] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "P",
+    "fullTime": { "reception": [228, 236], "workplace": [229, 236] },
+    "partTime": { "reception": [1233, 1273], "workplace": [1228, 1267] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "Q",
+    "fullTime": { "reception": [193, 204], "workplace": [192, 204] },
+    "partTime": { "reception": [1116, 1179], "workplace": [1114, 1178] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "R",
+    "fullTime": { "reception": [228, 239], "workplace": [229, 240] },
+    "partTime": { "reception": [1092, 1141], "workplace": [1097, 1149] }
+  },
+  {
+    "placeId": "JP-16",
+    "industryId": "ST",
+    "fullTime": { "reception": [207, 224], "workplace": [212, 235] },
+    "partTime": { "reception": [1221, 1329], "workplace": [1220, 1325] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "ALL",
+    "fullTime": { "reception": [245, 255], "workplace": [248, 260] },
+    "partTime": { "reception": [1138, 1209], "workplace": [1141, 1205] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "AB",
+    "fullTime": { "reception": [227, 240], "workplace": [227, 245] },
+    "partTime": { "reception": [1073, 1146], "workplace": [1090, 1143] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "C",
+    "fullTime": { "reception": [274, 275], "workplace": [315, 287] },
+    "partTime": { "reception": [1183, null], "workplace": [1250, null] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "D",
+    "fullTime": { "reception": [288, 301], "workplace": [289, 299] },
+    "partTime": { "reception": [1216, 1328], "workplace": [1240, 1316] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "E",
+    "fullTime": { "reception": [230, 241], "workplace": [230, 240] },
+    "partTime": { "reception": [1068, 1121], "workplace": [1068, 1125] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "F",
+    "fullTime": { "reception": [260, 261], "workplace": [246, 237] },
+    "partTime": { "reception": [1066, null], "workplace": [1117, 1350] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "G",
+    "fullTime": { "reception": [288, 304], "workplace": [298, 317] },
+    "partTime": { "reception": [1288, 1304], "workplace": [1300, 1314] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "H",
+    "fullTime": { "reception": [243, 252], "workplace": [243, 252] },
+    "partTime": { "reception": [1141, 1209], "workplace": [1146, 1203] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "I",
+    "fullTime": { "reception": [233, 241], "workplace": [245, 252] },
+    "partTime": { "reception": [1086, 1159], "workplace": [1111, 1162] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "J",
+    "fullTime": { "reception": [244, 254], "workplace": [254, 257] },
+    "partTime": { "reception": [1121, 1158], "workplace": [1110, 1149] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "K",
+    "fullTime": { "reception": [252, 260], "workplace": [258, 264] },
+    "partTime": { "reception": [1103, 1148], "workplace": [1116, 1164] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "L",
+    "fullTime": { "reception": [273, 311], "workplace": [288, 338] },
+    "partTime": { "reception": [1182, 1222], "workplace": [1202, 1220] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "M",
+    "fullTime": { "reception": [260, 271], "workplace": [252, 264] },
+    "partTime": { "reception": [1197, 1226], "workplace": [1097, 1151] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "N",
+    "fullTime": { "reception": [221, 229], "workplace": [241, 253] },
+    "partTime": { "reception": [1114, 1183], "workplace": [1161, 1266] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "O",
+    "fullTime": { "reception": [220, 229], "workplace": [223, 228] },
+    "partTime": { "reception": [1153, 1242], "workplace": [1169, 1249] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "P",
+    "fullTime": { "reception": [236, 240], "workplace": [230, 238] },
+    "partTime": { "reception": [1209, 1283], "workplace": [1212, 1273] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "Q",
+    "fullTime": { "reception": [199, 207], "workplace": [199, 207] },
+    "partTime": { "reception": [1167, 1171], "workplace": [1164, 1174] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "R",
+    "fullTime": { "reception": [227, 235], "workplace": [233, 242] },
+    "partTime": { "reception": [1074, 1146], "workplace": [1089, 1154] }
+  },
+  {
+    "placeId": "JP-17",
+    "industryId": "ST",
+    "fullTime": { "reception": [191, 207], "workplace": [199, 213] },
+    "partTime": { "reception": [1198, 1301], "workplace": [1204, 1297] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "ALL",
+    "fullTime": { "reception": [244, 252], "workplace": [246, 255] },
+    "partTime": { "reception": [1134, 1193], "workplace": [1137, 1194] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "AB",
+    "fullTime": { "reception": [248, 259], "workplace": [250, 260] },
+    "partTime": { "reception": [1075, 1123], "workplace": [1071, 1117] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "C",
+    "fullTime": { "reception": [304, 299], "workplace": [301, 299] },
+    "partTime": { "reception": [1780, 1667], "workplace": [1780, 1667] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "D",
+    "fullTime": { "reception": [287, 295], "workplace": [288, 294] },
+    "partTime": { "reception": [1240, 1290], "workplace": [1239, 1283] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "E",
+    "fullTime": { "reception": [231, 238], "workplace": [230, 237] },
+    "partTime": { "reception": [1068, 1129], "workplace": [1066, 1127] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "F",
+    "fullTime": { "reception": [246, 244], "workplace": [236, 239] },
+    "partTime": { "reception": [1163, 1231], "workplace": [1272, 1231] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "G",
+    "fullTime": { "reception": [280, 288], "workplace": [284, 291] },
+    "partTime": { "reception": [1192, 1247], "workplace": [1200, 1251] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "H",
+    "fullTime": { "reception": [243, 251], "workplace": [241, 250] },
+    "partTime": { "reception": [1114, 1169], "workplace": [1118, 1175] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "I",
+    "fullTime": { "reception": [245, 255], "workplace": [245, 254] },
+    "partTime": { "reception": [1079, 1148], "workplace": [1099, 1155] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "J",
+    "fullTime": { "reception": [247, 261], "workplace": [248, 267] },
+    "partTime": { "reception": [1068, 1145], "workplace": [1060, 1123] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "K",
+    "fullTime": { "reception": [247, 253], "workplace": [257, 262] },
+    "partTime": { "reception": [1119, 1154], "workplace": [1099, 1148] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "L",
+    "fullTime": { "reception": [267, 271], "workplace": [286, 307] },
+    "partTime": { "reception": [1171, 1225], "workplace": [1162, 1216] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "M",
+    "fullTime": { "reception": [252, 254], "workplace": [251, 255] },
+    "partTime": { "reception": [1089, 1151], "workplace": [1080, 1133] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "N",
+    "fullTime": { "reception": [229, 234], "workplace": [239, 251] },
+    "partTime": { "reception": [1108, 1156], "workplace": [1125, 1226] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "O",
+    "fullTime": { "reception": [230, 239], "workplace": [227, 237] },
+    "partTime": { "reception": [1190, 1260], "workplace": [1202, 1267] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "P",
+    "fullTime": { "reception": [228, 235], "workplace": [228, 236] },
+    "partTime": { "reception": [1224, 1269], "workplace": [1222, 1264] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "Q",
+    "fullTime": { "reception": [200, 218], "workplace": [199, 214] },
+    "partTime": { "reception": [1055, 1087], "workplace": [1059, 1087] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "R",
+    "fullTime": { "reception": [223, 232], "workplace": [227, 236] },
+    "partTime": { "reception": [1067, 1113], "workplace": [1077, 1120] }
+  },
+  {
+    "placeId": "JP-18",
+    "industryId": "ST",
+    "fullTime": { "reception": [203, 220], "workplace": [206, 223] },
+    "partTime": { "reception": [1197, 1310], "workplace": [1197, 1313] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "ALL",
+    "fullTime": { "reception": [246, 253], "workplace": [251, 258] },
+    "partTime": { "reception": [1170, 1224], "workplace": [1172, 1221] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "AB",
+    "fullTime": { "reception": [247, 257], "workplace": [246, 258] },
+    "partTime": { "reception": [1073, 1110], "workplace": [1070, 1113] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "C",
+    "fullTime": { "reception": [276, 270], "workplace": [266, 261] },
+    "partTime": { "reception": [null, 1200], "workplace": [null, 1200] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "D",
+    "fullTime": { "reception": [296, 301], "workplace": [301, 307] },
+    "partTime": { "reception": [1206, 1263], "workplace": [1203, 1260] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "E",
+    "fullTime": { "reception": [237, 244], "workplace": [237, 244] },
+    "partTime": { "reception": [1073, 1117], "workplace": [1070, 1116] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "F",
+    "fullTime": { "reception": [241, 239], "workplace": [251, 252] },
+    "partTime": { "reception": [1285, 1223], "workplace": [1297, 1223] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "G",
+    "fullTime": { "reception": [275, 269], "workplace": [272, 276] },
+    "partTime": { "reception": [1112, 1166], "workplace": [1147, 1221] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "H",
+    "fullTime": { "reception": [243, 257], "workplace": [242, 258] },
+    "partTime": { "reception": [1159, 1233], "workplace": [1162, 1232] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "I",
+    "fullTime": { "reception": [241, 248], "workplace": [257, 261] },
+    "partTime": { "reception": [1111, 1149], "workplace": [1140, 1161] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "J",
+    "fullTime": { "reception": [240, 246], "workplace": [256, 268] },
+    "partTime": { "reception": [1109, 1170], "workplace": [1194, 1267] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "K",
+    "fullTime": { "reception": [262, 263], "workplace": [264, 269] },
+    "partTime": { "reception": [1155, 1207], "workplace": [1149, 1196] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "L",
+    "fullTime": { "reception": [268, 273], "workplace": [293, 300] },
+    "partTime": { "reception": [1164, 1224], "workplace": [1177, 1245] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "M",
+    "fullTime": { "reception": [257, 263], "workplace": [255, 260] },
+    "partTime": { "reception": [1127, 1178], "workplace": [1094, 1133] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "N",
+    "fullTime": { "reception": [234, 245], "workplace": [243, 260] },
+    "partTime": { "reception": [1105, 1180], "workplace": [1123, 1255] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "O",
+    "fullTime": { "reception": [229, 237], "workplace": [231, 238] },
+    "partTime": { "reception": [1359, 1357], "workplace": [1392, 1375] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "P",
+    "fullTime": { "reception": [232, 239], "workplace": [235, 242] },
+    "partTime": { "reception": [1243, 1292], "workplace": [1251, 1290] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "Q",
+    "fullTime": { "reception": [201, 208], "workplace": [197, 213] },
+    "partTime": { "reception": [1099, 1073], "workplace": [1092, 1072] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "R",
+    "fullTime": { "reception": [235, 241], "workplace": [234, 242] },
+    "partTime": { "reception": [1089, 1160], "workplace": [1104, 1167] }
+  },
+  {
+    "placeId": "JP-19",
+    "industryId": "ST",
+    "fullTime": { "reception": [224, 236], "workplace": [221, 227] },
+    "partTime": { "reception": [1258, 1389], "workplace": [1274, 1406] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "ALL",
+    "fullTime": { "reception": [241, 249], "workplace": [246, 253] },
+    "partTime": { "reception": [1139, 1199], "workplace": [1150, 1209] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "AB",
+    "fullTime": { "reception": [235, 246], "workplace": [234, 246] },
+    "partTime": { "reception": [1094, 1150], "workplace": [1091, 1155] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "C",
+    "fullTime": { "reception": [263, 264], "workplace": [263, 263] },
+    "partTime": { "reception": [1380, 1413], "workplace": [1380, 1413] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "D",
+    "fullTime": { "reception": [286, 293], "workplace": [290, 296] },
+    "partTime": { "reception": [1164, 1243], "workplace": [1162, 1248] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "E",
+    "fullTime": { "reception": [232, 239], "workplace": [231, 239] },
+    "partTime": { "reception": [1068, 1128], "workplace": [1063, 1124] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "F",
+    "fullTime": { "reception": [252, 241], "workplace": [256, 246] },
+    "partTime": { "reception": [1062, 1162], "workplace": [1131, 1223] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "G",
+    "fullTime": { "reception": [288, 292], "workplace": [285, 289] },
+    "partTime": { "reception": [1186, 1269], "workplace": [1195, 1261] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "H",
+    "fullTime": { "reception": [243, 251], "workplace": [242, 252] },
+    "partTime": { "reception": [1114, 1184], "workplace": [1128, 1195] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "I",
+    "fullTime": { "reception": [240, 247], "workplace": [252, 254] },
+    "partTime": { "reception": [1072, 1138], "workplace": [1107, 1149] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "J",
+    "fullTime": { "reception": [250, 260], "workplace": [265, 267] },
+    "partTime": { "reception": [1081, 1166], "workplace": [1122, 1206] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "K",
+    "fullTime": { "reception": [256, 261], "workplace": [262, 266] },
+    "partTime": { "reception": [1132, 1180], "workplace": [1138, 1182] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "L",
+    "fullTime": { "reception": [273, 284], "workplace": [294, 298] },
+    "partTime": { "reception": [1174, 1278], "workplace": [1176, 1300] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "M",
+    "fullTime": { "reception": [261, 266], "workplace": [260, 270] },
+    "partTime": { "reception": [1111, 1153], "workplace": [1096, 1153] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "N",
+    "fullTime": { "reception": [237, 245], "workplace": [252, 268] },
+    "partTime": { "reception": [1132, 1194], "workplace": [1181, 1310] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "O",
+    "fullTime": { "reception": [231, 240], "workplace": [230, 240] },
+    "partTime": { "reception": [1266, 1327], "workplace": [1291, 1331] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "P",
+    "fullTime": { "reception": [227, 235], "workplace": [228, 235] },
+    "partTime": { "reception": [1209, 1257], "workplace": [1212, 1258] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "Q",
+    "fullTime": { "reception": [200, 211], "workplace": [200, 211] },
+    "partTime": { "reception": [1053, 1134], "workplace": [1058, 1138] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "R",
+    "fullTime": { "reception": [217, 225], "workplace": [221, 227] },
+    "partTime": { "reception": [1103, 1163], "workplace": [1108, 1174] }
+  },
+  {
+    "placeId": "JP-20",
+    "industryId": "ST",
+    "fullTime": { "reception": [215, 229], "workplace": [215, 228] },
+    "partTime": { "reception": [1251, 1350], "workplace": [1268, 1376] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "ALL",
+    "fullTime": { "reception": [251, 260], "workplace": [253, 261] },
+    "partTime": { "reception": [1164, 1225], "workplace": [1177, 1232] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "AB",
+    "fullTime": { "reception": [243, 251], "workplace": [245, 254] },
+    "partTime": { "reception": [1128, 1190], "workplace": [1126, 1192] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "C",
+    "fullTime": { "reception": [259, 266], "workplace": [257, 266] },
+    "partTime": { "reception": [1129, 1166], "workplace": [1129, 1166] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "D",
+    "fullTime": { "reception": [293, 302], "workplace": [294, 303] },
+    "partTime": { "reception": [1223, 1260], "workplace": [1223, 1258] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "E",
+    "fullTime": { "reception": [238, 246], "workplace": [236, 243] },
+    "partTime": { "reception": [1073, 1128], "workplace": [1075, 1127] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "F",
+    "fullTime": { "reception": [250, 257], "workplace": [248, 252] },
+    "partTime": { "reception": [1028, 1124], "workplace": [1028, 1124] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "G",
+    "fullTime": { "reception": [302, 343], "workplace": [295, 334] },
+    "partTime": { "reception": [1353, 1421], "workplace": [1313, 1351] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "H",
+    "fullTime": { "reception": [278, 286], "workplace": [267, 271] },
+    "partTime": { "reception": [1127, 1211], "workplace": [1131, 1216] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "I",
+    "fullTime": { "reception": [246, 255], "workplace": [257, 262] },
+    "partTime": { "reception": [1090, 1151], "workplace": [1129, 1179] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "J",
+    "fullTime": { "reception": [245, 256], "workplace": [261, 267] },
+    "partTime": { "reception": [1135, 1169], "workplace": [1156, 1193] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "K",
+    "fullTime": { "reception": [241, 252], "workplace": [257, 263] },
+    "partTime": { "reception": [1144, 1175], "workplace": [1131, 1201] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "L",
+    "fullTime": { "reception": [270, 274], "workplace": [318, 327] },
+    "partTime": { "reception": [1251, 1302], "workplace": [1281, 1341] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "M",
+    "fullTime": { "reception": [265, 259], "workplace": [253, 262] },
+    "partTime": { "reception": [1116, 1154], "workplace": [1120, 1139] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "N",
+    "fullTime": { "reception": [248, 254], "workplace": [250, 259] },
+    "partTime": { "reception": [1135, 1182], "workplace": [1172, 1241] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "O",
+    "fullTime": { "reception": [226, 235], "workplace": [232, 243] },
+    "partTime": { "reception": [1227, 1276], "workplace": [1215, 1273] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "P",
+    "fullTime": { "reception": [241, 252], "workplace": [240, 250] },
+    "partTime": { "reception": [1244, 1300], "workplace": [1249, 1302] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "Q",
+    "fullTime": { "reception": [197, 209], "workplace": [199, 210] },
+    "partTime": { "reception": [1054, 1100], "workplace": [1059, 1111] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "R",
+    "fullTime": { "reception": [237, 248], "workplace": [231, 241] },
+    "partTime": { "reception": [1101, 1156], "workplace": [1106, 1159] }
+  },
+  {
+    "placeId": "JP-21",
+    "industryId": "ST",
+    "fullTime": { "reception": [211, 234], "workplace": [213, 232] },
+    "partTime": { "reception": [1252, 1350], "workplace": [1255, 1351] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "ALL",
+    "fullTime": { "reception": [250, 257], "workplace": [255, 262] },
+    "partTime": { "reception": [1221, 1273], "workplace": [1218, 1264] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "AB",
+    "fullTime": { "reception": [234, 245], "workplace": [236, 246] },
+    "partTime": { "reception": [1116, 1174], "workplace": [1118, 1175] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "C",
+    "fullTime": { "reception": [262, 266], "workplace": [257, 260] },
+    "partTime": { "reception": [1184, 1171], "workplace": [1194, 1171] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "D",
+    "fullTime": { "reception": [290, 298], "workplace": [296, 301] },
+    "partTime": { "reception": [1281, 1351], "workplace": [1263, 1332] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "E",
+    "fullTime": { "reception": [238, 247], "workplace": [238, 246] },
+    "partTime": { "reception": [1107, 1167], "workplace": [1106, 1163] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "F",
+    "fullTime": { "reception": [253, 266], "workplace": [245, 258] },
+    "partTime": { "reception": [1184, 1265], "workplace": [1128, 1172] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "G",
+    "fullTime": { "reception": [288, 305], "workplace": [289, 306] },
+    "partTime": { "reception": [1260, 1290], "workplace": [1261, 1292] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "H",
+    "fullTime": { "reception": [250, 258], "workplace": [247, 256] },
+    "partTime": { "reception": [1209, 1255], "workplace": [1195, 1245] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "I",
+    "fullTime": { "reception": [242, 246], "workplace": [252, 258] },
+    "partTime": { "reception": [1207, 1248], "workplace": [1207, 1231] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "J",
+    "fullTime": { "reception": [244, 246], "workplace": [256, 253] },
+    "partTime": { "reception": [1216, 1292], "workplace": [1286, 1420] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "K",
+    "fullTime": { "reception": [251, 257], "workplace": [263, 267] },
+    "partTime": { "reception": [1135, 1176], "workplace": [1138, 1178] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "L",
+    "fullTime": { "reception": [330, 329], "workplace": [333, 340] },
+    "partTime": { "reception": [1206, 1258], "workplace": [1255, 1289] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "M",
+    "fullTime": { "reception": [260, 270], "workplace": [269, 275] },
+    "partTime": { "reception": [1157, 1199], "workplace": [1137, 1170] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "N",
+    "fullTime": { "reception": [241, 250], "workplace": [257, 268] },
+    "partTime": { "reception": [1173, 1217], "workplace": [1236, 1302] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "O",
+    "fullTime": { "reception": [229, 237], "workplace": [242, 247] },
+    "partTime": { "reception": [1330, 1338], "workplace": [1327, 1337] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "P",
+    "fullTime": { "reception": [239, 245], "workplace": [241, 247] },
+    "partTime": { "reception": [1284, 1330], "workplace": [1282, 1324] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "Q",
+    "fullTime": { "reception": [214, 223], "workplace": [214, 223] },
+    "partTime": { "reception": [1130, 1149], "workplace": [1135, 1161] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "R",
+    "fullTime": { "reception": [236, 240], "workplace": [235, 242] },
+    "partTime": { "reception": [1137, 1192], "workplace": [1141, 1192] }
+  },
+  {
+    "placeId": "JP-22",
+    "industryId": "ST",
+    "fullTime": { "reception": [217, 234], "workplace": [216, 230] },
+    "partTime": { "reception": [1259, 1395], "workplace": [1266, 1392] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "ALL",
+    "fullTime": { "reception": [262, 270], "workplace": [266, 273] },
+    "partTime": { "reception": [1260, 1308], "workplace": [1264, 1310] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "AB",
+    "fullTime": { "reception": [242, 249], "workplace": [247, 253] },
+    "partTime": { "reception": [1153, 1201], "workplace": [1153, 1199] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "C",
+    "fullTime": { "reception": [255, 262], "workplace": [254, 263] },
+    "partTime": { "reception": [1279, 1437], "workplace": [1279, 1437] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "D",
+    "fullTime": { "reception": [304, 310], "workplace": [303, 311] },
+    "partTime": { "reception": [1274, 1341], "workplace": [1284, 1354] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "E",
+    "fullTime": { "reception": [247, 253], "workplace": [248, 255] },
+    "partTime": { "reception": [1155, 1203], "workplace": [1159, 1207] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "F",
+    "fullTime": { "reception": [239, 248], "workplace": [240, 246] },
+    "partTime": { "reception": [1315, 1597], "workplace": [1288, 1435] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "G",
+    "fullTime": { "reception": [316, 320], "workplace": [321, 325] },
+    "partTime": { "reception": [1268, 1315], "workplace": [1290, 1344] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "H",
+    "fullTime": { "reception": [254, 262], "workplace": [259, 267] },
+    "partTime": { "reception": [1241, 1270], "workplace": [1243, 1286] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "I",
+    "fullTime": { "reception": [255, 262], "workplace": [261, 269] },
+    "partTime": { "reception": [1226, 1278], "workplace": [1219, 1258] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "J",
+    "fullTime": { "reception": [273, 275], "workplace": [272, 274] },
+    "partTime": { "reception": [1158, 1208], "workplace": [1180, 1228] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "K",
+    "fullTime": { "reception": [268, 272], "workplace": [270, 271] },
+    "partTime": { "reception": [1192, 1252], "workplace": [1189, 1236] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "L",
+    "fullTime": { "reception": [302, 310], "workplace": [327, 336] },
+    "partTime": { "reception": [1310, 1342], "workplace": [1329, 1360] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "M",
+    "fullTime": { "reception": [262, 274], "workplace": [268, 275] },
+    "partTime": { "reception": [1136, 1178], "workplace": [1129, 1168] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "N",
+    "fullTime": { "reception": [250, 259], "workplace": [263, 277] },
+    "partTime": { "reception": [1205, 1263], "workplace": [1282, 1357] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "O",
+    "fullTime": { "reception": [255, 260], "workplace": [246, 250] },
+    "partTime": { "reception": [1287, 1327], "workplace": [1336, 1400] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "P",
+    "fullTime": { "reception": [249, 255], "workplace": [249, 256] },
+    "partTime": { "reception": [1335, 1373], "workplace": [1336, 1376] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "Q",
+    "fullTime": { "reception": [227, 235], "workplace": [228, 235] },
+    "partTime": { "reception": [1159, 1218], "workplace": [1138, 1202] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "R",
+    "fullTime": { "reception": [261, 274], "workplace": [256, 265] },
+    "partTime": { "reception": [1174, 1221], "workplace": [1180, 1223] }
+  },
+  {
+    "placeId": "JP-23",
+    "industryId": "ST",
+    "fullTime": { "reception": [237, 252], "workplace": [229, 245] },
+    "partTime": { "reception": [1421, 1527], "workplace": [1428, 1538] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "ALL",
+    "fullTime": { "reception": [244, 251], "workplace": [247, 254] },
+    "partTime": { "reception": [1193, 1246], "workplace": [1192, 1243] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "AB",
+    "fullTime": { "reception": [232, 245], "workplace": [233, 241] },
+    "partTime": { "reception": [1087, 1137], "workplace": [1092, 1141] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "C",
+    "fullTime": { "reception": [238, 241], "workplace": [238, 241] },
+    "partTime": { "reception": [1193, 1196], "workplace": [1184, 1142] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "D",
+    "fullTime": { "reception": [290, 299], "workplace": [291, 299] },
+    "partTime": { "reception": [1256, 1280], "workplace": [1255, 1289] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "E",
+    "fullTime": { "reception": [236, 241], "workplace": [235, 241] },
+    "partTime": { "reception": [1102, 1148], "workplace": [1101, 1146] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "F",
+    "fullTime": { "reception": [246, 259], "workplace": [247, 256] },
+    "partTime": { "reception": [1187, 1381], "workplace": [1169, 1383] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "G",
+    "fullTime": { "reception": [281, 291], "workplace": [284, 309] },
+    "partTime": { "reception": [1135, 1216], "workplace": [1159, 1222] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "H",
+    "fullTime": { "reception": [251, 258], "workplace": [249, 258] },
+    "partTime": { "reception": [1135, 1192], "workplace": [1154, 1201] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "I",
+    "fullTime": { "reception": [240, 248], "workplace": [248, 254] },
+    "partTime": { "reception": [1150, 1187], "workplace": [1160, 1199] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "J",
+    "fullTime": { "reception": [245, 260], "workplace": [245, 257] },
+    "partTime": { "reception": [1064, 1113], "workplace": [1081, 1125] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "K",
+    "fullTime": { "reception": [250, 253], "workplace": [263, 267] },
+    "partTime": { "reception": [1124, 1176], "workplace": [1133, 1195] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "L",
+    "fullTime": { "reception": [261, 270], "workplace": [285, 293] },
+    "partTime": { "reception": [1180, 1248], "workplace": [1292, 1298] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "M",
+    "fullTime": { "reception": [245, 247], "workplace": [248, 254] },
+    "partTime": { "reception": [1095, 1140], "workplace": [1086, 1125] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "N",
+    "fullTime": { "reception": [234, 242], "workplace": [255, 264] },
+    "partTime": { "reception": [1172, 1219], "workplace": [1230, 1278] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "O",
+    "fullTime": { "reception": [248, 257], "workplace": [242, 248] },
+    "partTime": { "reception": [1210, 1310], "workplace": [1209, 1302] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "P",
+    "fullTime": { "reception": [232, 240], "workplace": [234, 242] },
+    "partTime": { "reception": [1272, 1319], "workplace": [1271, 1316] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "Q",
+    "fullTime": { "reception": [206, 206], "workplace": [210, 209] },
+    "partTime": { "reception": [1127, 1142], "workplace": [1139, 1151] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "R",
+    "fullTime": { "reception": [230, 237], "workplace": [230, 241] },
+    "partTime": { "reception": [1128, 1188], "workplace": [1128, 1179] }
+  },
+  {
+    "placeId": "JP-24",
+    "industryId": "ST",
+    "fullTime": { "reception": [196, 205], "workplace": [196, 204] },
+    "partTime": { "reception": [1264, 1388], "workplace": [1275, 1412] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "ALL",
+    "fullTime": { "reception": [245, 252], "workplace": [250, 257] },
+    "partTime": { "reception": [1203, 1269], "workplace": [1198, 1258] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "AB",
+    "fullTime": { "reception": [237, 247], "workplace": [243, 251] },
+    "partTime": { "reception": [1122, 1136], "workplace": [1129, 1163] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "C",
+    "fullTime": { "reception": [273, 269], "workplace": [267, 261] },
+    "partTime": { "reception": [1244, 1373], "workplace": [1224, 1349] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "D",
+    "fullTime": { "reception": [296, 305], "workplace": [299, 310] },
+    "partTime": { "reception": [1240, 1303], "workplace": [1240, 1303] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "E",
+    "fullTime": { "reception": [234, 240], "workplace": [238, 242] },
+    "partTime": { "reception": [1088, 1139], "workplace": [1088, 1138] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "F",
+    "fullTime": { "reception": [265, 254], "workplace": [220, 227] },
+    "partTime": { "reception": [1013, 1080], "workplace": [1307, 1364] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "G",
+    "fullTime": { "reception": [287, 260], "workplace": [281, 264] },
+    "partTime": { "reception": [1137, 1187], "workplace": [1143, 1174] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "H",
+    "fullTime": { "reception": [243, 250], "workplace": [247, 255] },
+    "partTime": { "reception": [1149, 1196], "workplace": [1155, 1203] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "I",
+    "fullTime": { "reception": [239, 245], "workplace": [249, 256] },
+    "partTime": { "reception": [1123, 1195], "workplace": [1133, 1177] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "J",
+    "fullTime": { "reception": [247, 250], "workplace": [251, 252] },
+    "partTime": { "reception": [1173, 1260], "workplace": [1227, 1296] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "K",
+    "fullTime": { "reception": [280, 296], "workplace": [274, 281] },
+    "partTime": { "reception": [1168, 1201], "workplace": [1145, 1189] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "L",
+    "fullTime": { "reception": [282, 288], "workplace": [322, 320] },
+    "partTime": { "reception": [1233, 1278], "workplace": [1262, 1285] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "M",
+    "fullTime": { "reception": [262, 270], "workplace": [256, 265] },
+    "partTime": { "reception": [1083, 1131], "workplace": [1078, 1125] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "N",
+    "fullTime": { "reception": [240, 249], "workplace": [259, 267] },
+    "partTime": { "reception": [1140, 1182], "workplace": [1183, 1240] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "O",
+    "fullTime": { "reception": [235, 237], "workplace": [240, 243] },
+    "partTime": { "reception": [1228, 1356], "workplace": [1232, 1348] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "P",
+    "fullTime": { "reception": [234, 243], "workplace": [237, 245] },
+    "partTime": { "reception": [1274, 1327], "workplace": [1272, 1323] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "Q",
+    "fullTime": { "reception": [207, 216], "workplace": [210, 221] },
+    "partTime": { "reception": [1098, 1226], "workplace": [1099, 1225] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "R",
+    "fullTime": { "reception": [230, 236], "workplace": [230, 238] },
+    "partTime": { "reception": [1124, 1180], "workplace": [1126, 1184] }
+  },
+  {
+    "placeId": "JP-25",
+    "industryId": "ST",
+    "fullTime": { "reception": [213, 235], "workplace": [211, 234] },
+    "partTime": { "reception": [1361, 1464], "workplace": [1367, 1469] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "ALL",
+    "fullTime": { "reception": [253, 261], "workplace": [258, 266] },
+    "partTime": { "reception": [1240, 1289], "workplace": [1245, 1292] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "AB",
+    "fullTime": { "reception": [238, 248], "workplace": [239, 250] },
+    "partTime": { "reception": [1172, 1237], "workplace": [1172, 1218] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "C",
+    "fullTime": { "reception": [275, 288], "workplace": [276, 287] },
+    "partTime": { "reception": [1238, 1350], "workplace": [1238, 1350] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "D",
+    "fullTime": { "reception": [302, 310], "workplace": [303, 312] },
+    "partTime": { "reception": [1317, 1344], "workplace": [1347, 1361] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "E",
+    "fullTime": { "reception": [248, 251], "workplace": [245, 249] },
+    "partTime": { "reception": [1143, 1184], "workplace": [1144, 1186] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "F",
+    "fullTime": { "reception": [244, 259], "workplace": [229, 242] },
+    "partTime": { "reception": [1302, 1435], "workplace": [1318, 1406] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "G",
+    "fullTime": { "reception": [305, 321], "workplace": [326, 335] },
+    "partTime": { "reception": [1365, 1282], "workplace": [1251, 1288] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "H",
+    "fullTime": { "reception": [252, 261], "workplace": [251, 259] },
+    "partTime": { "reception": [1206, 1247], "workplace": [1202, 1250] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "I",
+    "fullTime": { "reception": [245, 254], "workplace": [250, 258] },
+    "partTime": { "reception": [1178, 1218], "workplace": [1194, 1225] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "J",
+    "fullTime": { "reception": [252, 268], "workplace": [266, 280] },
+    "partTime": { "reception": [1291, 1371], "workplace": [1288, 1372] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "K",
+    "fullTime": { "reception": [252, 269], "workplace": [258, 272] },
+    "partTime": { "reception": [1171, 1218], "workplace": [1171, 1214] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "L",
+    "fullTime": { "reception": [293, 301], "workplace": [331, 336] },
+    "partTime": { "reception": [1333, 1352], "workplace": [1374, 1382] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "M",
+    "fullTime": { "reception": [255, 263], "workplace": [257, 266] },
+    "partTime": { "reception": [1163, 1195], "workplace": [1154, 1186] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "N",
+    "fullTime": { "reception": [243, 250], "workplace": [268, 266] },
+    "partTime": { "reception": [1196, 1245], "workplace": [1320, 1327] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "O",
+    "fullTime": { "reception": [231, 234], "workplace": [236, 245] },
+    "partTime": { "reception": [1260, 1300], "workplace": [1315, 1351] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "P",
+    "fullTime": { "reception": [237, 243], "workplace": [239, 247] },
+    "partTime": { "reception": [1309, 1362], "workplace": [1312, 1364] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "Q",
+    "fullTime": { "reception": [221, 232], "workplace": [224, 229] },
+    "partTime": { "reception": [1162, 1207], "workplace": [1171, 1216] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "R",
+    "fullTime": { "reception": [240, 247], "workplace": [236, 246] },
+    "partTime": { "reception": [1159, 1223], "workplace": [1156, 1225] }
+  },
+  {
+    "placeId": "JP-26",
+    "industryId": "ST",
+    "fullTime": { "reception": [202, 224], "workplace": [202, 223] },
+    "partTime": { "reception": [1410, 1520], "workplace": [1410, 1517] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "ALL",
+    "fullTime": { "reception": [269, 276], "workplace": [272, 279] },
+    "partTime": { "reception": [1276, 1334], "workplace": [1301, 1354] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "AB",
+    "fullTime": { "reception": [284, 274], "workplace": [282, 278] },
+    "partTime": { "reception": [1283, 1366], "workplace": [1250, 1337] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "C",
+    "fullTime": { "reception": [274, 296], "workplace": [252, 286] },
+    "partTime": { "reception": [null, null], "workplace": [null, null] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "D",
+    "fullTime": { "reception": [314, 324], "workplace": [314, 322] },
+    "partTime": { "reception": [1321, 1384], "workplace": [1342, 1398] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "E",
+    "fullTime": { "reception": [254, 260], "workplace": [257, 263] },
+    "partTime": { "reception": [1199, 1242], "workplace": [1196, 1243] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "F",
+    "fullTime": { "reception": [236, 234], "workplace": [263, 258] },
+    "partTime": { "reception": [1320, 1331], "workplace": [1307, 1425] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "G",
+    "fullTime": { "reception": [328, 328], "workplace": [333, 337] },
+    "partTime": { "reception": [1322, 1336], "workplace": [1365, 1354] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "H",
+    "fullTime": { "reception": [261, 273], "workplace": [264, 275] },
+    "partTime": { "reception": [1239, 1292], "workplace": [1245, 1302] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "I",
+    "fullTime": { "reception": [265, 270], "workplace": [269, 273] },
+    "partTime": { "reception": [1299, 1377], "workplace": [1315, 1350] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "J",
+    "fullTime": { "reception": [252, 254], "workplace": [268, 266] },
+    "partTime": { "reception": [1275, 1332], "workplace": [1288, 1342] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "K",
+    "fullTime": { "reception": [267, 274], "workplace": [272, 279] },
+    "partTime": { "reception": [1211, 1260], "workplace": [1231, 1284] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "L",
+    "fullTime": { "reception": [313, 322], "workplace": [332, 341] },
+    "partTime": { "reception": [1315, 1393], "workplace": [1375, 1436] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "M",
+    "fullTime": { "reception": [263, 272], "workplace": [265, 275] },
+    "partTime": { "reception": [1139, 1182], "workplace": [1165, 1212] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "N",
+    "fullTime": { "reception": [286, 282], "workplace": [268, 272] },
+    "partTime": { "reception": [1192, 1264], "workplace": [1342, 1372] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "O",
+    "fullTime": { "reception": [248, 252], "workplace": [247, 254] },
+    "partTime": { "reception": [1369, 1441], "workplace": [1362, 1417] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "P",
+    "fullTime": { "reception": [254, 262], "workplace": [255, 262] },
+    "partTime": { "reception": [1369, 1417], "workplace": [1377, 1429] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "Q",
+    "fullTime": { "reception": [238, 246], "workplace": [239, 247] },
+    "partTime": { "reception": [1279, 1314], "workplace": [1273, 1318] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "R",
+    "fullTime": { "reception": [248, 258], "workplace": [249, 260] },
+    "partTime": { "reception": [1166, 1214], "workplace": [1184, 1231] }
+  },
+  {
+    "placeId": "JP-27",
+    "industryId": "ST",
+    "fullTime": { "reception": [238, 253], "workplace": [233, 241] },
+    "partTime": { "reception": [1460, 1556], "workplace": [1457, 1556] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "ALL",
+    "fullTime": { "reception": [255, 262], "workplace": [259, 266] },
+    "partTime": { "reception": [1240, 1294], "workplace": [1238, 1286] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "AB",
+    "fullTime": { "reception": [245, 248], "workplace": [244, 248] },
+    "partTime": { "reception": [1138, 1197], "workplace": [1137, 1226] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "C",
+    "fullTime": { "reception": [247, 257], "workplace": [243, 250] },
+    "partTime": { "reception": [1225, 1439], "workplace": [1218, 1439] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "D",
+    "fullTime": { "reception": [299, 306], "workplace": [302, 308] },
+    "partTime": { "reception": [1285, 1311], "workplace": [1288, 1312] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "E",
+    "fullTime": { "reception": [242, 249], "workplace": [241, 248] },
+    "partTime": { "reception": [1133, 1185], "workplace": [1138, 1187] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "F",
+    "fullTime": { "reception": [257, 257], "workplace": [243, 243] },
+    "partTime": { "reception": [1086, 1175], "workplace": [1109, 1194] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "G",
+    "fullTime": { "reception": [322, 329], "workplace": [322, 328] },
+    "partTime": { "reception": [1240, 1360], "workplace": [1252, 1374] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "H",
+    "fullTime": { "reception": [252, 261], "workplace": [252, 260] },
+    "partTime": { "reception": [1201, 1239], "workplace": [1204, 1245] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "I",
+    "fullTime": { "reception": [248, 255], "workplace": [254, 261] },
+    "partTime": { "reception": [1169, 1229], "workplace": [1197, 1243] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "J",
+    "fullTime": { "reception": [225, 237], "workplace": [231, 248] },
+    "partTime": { "reception": [1168, 1275], "workplace": [1188, 1288] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "K",
+    "fullTime": { "reception": [282, 292], "workplace": [268, 275] },
+    "partTime": { "reception": [1161, 1199], "workplace": [1141, 1184] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "L",
+    "fullTime": { "reception": [303, 311], "workplace": [341, 351] },
+    "partTime": { "reception": [1276, 1315], "workplace": [1306, 1310] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "M",
+    "fullTime": { "reception": [254, 265], "workplace": [257, 266] },
+    "partTime": { "reception": [1138, 1190], "workplace": [1119, 1167] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "N",
+    "fullTime": { "reception": [249, 249], "workplace": [264, 264] },
+    "partTime": { "reception": [1180, 1229], "workplace": [1275, 1305] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "O",
+    "fullTime": { "reception": [241, 246], "workplace": [239, 248] },
+    "partTime": { "reception": [1384, 1469], "workplace": [1341, 1404] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "P",
+    "fullTime": { "reception": [247, 254], "workplace": [244, 251] },
+    "partTime": { "reception": [1320, 1368], "workplace": [1319, 1362] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "Q",
+    "fullTime": { "reception": [210, 224], "workplace": [213, 226] },
+    "partTime": { "reception": [1207, 1289], "workplace": [1211, 1290] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "R",
+    "fullTime": { "reception": [236, 245], "workplace": [237, 246] },
+    "partTime": { "reception": [1132, 1179], "workplace": [1127, 1175] }
+  },
+  {
+    "placeId": "JP-28",
+    "industryId": "ST",
+    "fullTime": { "reception": [221, 235], "workplace": [216, 228] },
+    "partTime": { "reception": [1350, 1460], "workplace": [1362, 1468] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "ALL",
+    "fullTime": { "reception": [257, 266], "workplace": [257, 266] },
+    "partTime": { "reception": [1197, 1267], "workplace": [1187, 1251] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "AB",
+    "fullTime": { "reception": [248, 251], "workplace": [245, 248] },
+    "partTime": { "reception": [1069, 1161], "workplace": [1072, 1158] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "C",
+    "fullTime": { "reception": [null, null], "workplace": [null, null] },
+    "partTime": { "reception": [null, null], "workplace": [null, null] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "D",
+    "fullTime": { "reception": [303, 311], "workplace": [308, 318] },
+    "partTime": { "reception": [1266, 1290], "workplace": [1282, 1304] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "E",
+    "fullTime": { "reception": [231, 241], "workplace": [230, 240] },
+    "partTime": { "reception": [1052, 1109], "workplace": [1050, 1106] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "F",
+    "fullTime": { "reception": [266, 276], "workplace": [240, 236] },
+    "partTime": { "reception": [1454, 1121], "workplace": [1454, 1121] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "G",
+    "fullTime": { "reception": [275, 334], "workplace": [317, 363] },
+    "partTime": { "reception": [1128, 1228], "workplace": [1148, 1259] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "H",
+    "fullTime": { "reception": [299, 310], "workplace": [257, 264] },
+    "partTime": { "reception": [1148, 1189], "workplace": [1150, 1193] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "I",
+    "fullTime": { "reception": [250, 258], "workplace": [258, 261] },
+    "partTime": { "reception": [1131, 1193], "workplace": [1139, 1186] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "J",
+    "fullTime": { "reception": [254, 269], "workplace": [272, 285] },
+    "partTime": { "reception": [1136, 1186], "workplace": [1182, 1204] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "K",
+    "fullTime": { "reception": [263, 268], "workplace": [277, 273] },
+    "partTime": { "reception": [1101, 1162], "workplace": [1082, 1141] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "L",
+    "fullTime": { "reception": [334, 343], "workplace": [360, 369] },
+    "partTime": { "reception": [1211, 1244], "workplace": [1239, 1274] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "M",
+    "fullTime": { "reception": [242, 249], "workplace": [241, 249] },
+    "partTime": { "reception": [1064, 1130], "workplace": [1043, 1105] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "N",
+    "fullTime": { "reception": [249, 259], "workplace": [267, 277] },
+    "partTime": { "reception": [1163, 1232], "workplace": [1292, 1332] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "O",
+    "fullTime": { "reception": [234, 244], "workplace": [234, 240] },
+    "partTime": { "reception": [1260, 1316], "workplace": [1229, 1286] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "P",
+    "fullTime": { "reception": [248, 256], "workplace": [245, 253] },
+    "partTime": { "reception": [1282, 1345], "workplace": [1270, 1334] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "Q",
+    "fullTime": { "reception": [214, 219], "workplace": [212, 217] },
+    "partTime": { "reception": [1075, 1111], "workplace": [1093, 1112] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "R",
+    "fullTime": { "reception": [243, 251], "workplace": [234, 245] },
+    "partTime": { "reception": [1083, 1132], "workplace": [1086, 1139] }
+  },
+  {
+    "placeId": "JP-29",
+    "industryId": "ST",
+    "fullTime": { "reception": [214, 234], "workplace": [215, 233] },
+    "partTime": { "reception": [1329, 1429], "workplace": [1347, 1451] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "ALL",
+    "fullTime": { "reception": [233, 243], "workplace": [238, 247] },
+    "partTime": { "reception": [1145, 1203], "workplace": [1153, 1206] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "AB",
+    "fullTime": { "reception": [232, 233], "workplace": [233, 238] },
+    "partTime": { "reception": [1128, 1143], "workplace": [1175, 1158] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "C",
+    "fullTime": { "reception": [247, 257], "workplace": [247, 254] },
+    "partTime": { "reception": [1160, 1000], "workplace": [1160, 1000] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "D",
+    "fullTime": { "reception": [284, 292], "workplace": [290, 297] },
+    "partTime": { "reception": [1150, 1243], "workplace": [1135, 1232] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "E",
+    "fullTime": { "reception": [222, 232], "workplace": [220, 230] },
+    "partTime": { "reception": [1043, 1096], "workplace": [1041, 1093] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "F",
+    "fullTime": { "reception": [233, 255], "workplace": [231, 249] },
+    "partTime": { "reception": [1147, 1101], "workplace": [1147, 1101] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "G",
+    "fullTime": { "reception": [262, 262], "workplace": [276, 281] },
+    "partTime": { "reception": [1095, 1167], "workplace": [1181, 1242] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "H",
+    "fullTime": { "reception": [230, 246], "workplace": [228, 246] },
+    "partTime": { "reception": [1102, 1150], "workplace": [1112, 1146] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "I",
+    "fullTime": { "reception": [229, 237], "workplace": [246, 252] },
+    "partTime": { "reception": [1092, 1146], "workplace": [1111, 1148] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "J",
+    "fullTime": { "reception": [227, 245], "workplace": [241, 256] },
+    "partTime": { "reception": [1083, 1110], "workplace": [1139, 1166] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "K",
+    "fullTime": { "reception": [266, 271], "workplace": [260, 266] },
+    "partTime": { "reception": [1101, 1136], "workplace": [1074, 1125] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "L",
+    "fullTime": { "reception": [253, 277], "workplace": [289, 294] },
+    "partTime": { "reception": [1218, 1267], "workplace": [1220, 1273] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "M",
+    "fullTime": { "reception": [230, 236], "workplace": [230, 240] },
+    "partTime": { "reception": [1064, 1109], "workplace": [1056, 1097] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "N",
+    "fullTime": { "reception": [216, 220], "workplace": [249, 258] },
+    "partTime": { "reception": [1088, 1135], "workplace": [1206, 1280] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "O",
+    "fullTime": { "reception": [217, 230], "workplace": [219, 233] },
+    "partTime": { "reception": [1244, 1297], "workplace": [1265, 1306] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "P",
+    "fullTime": { "reception": [227, 234], "workplace": [226, 233] },
+    "partTime": { "reception": [1226, 1279], "workplace": [1223, 1273] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "Q",
+    "fullTime": { "reception": [190, 207], "workplace": [196, 210] },
+    "partTime": { "reception": [1021, 1084], "workplace": [1021, 1094] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "R",
+    "fullTime": { "reception": [220, 227], "workplace": [225, 234] },
+    "partTime": { "reception": [1070, 1117], "workplace": [1058, 1106] }
+  },
+  {
+    "placeId": "JP-30",
+    "industryId": "ST",
+    "fullTime": { "reception": [212, 228], "workplace": [212, 228] },
+    "partTime": { "reception": [1292, 1412], "workplace": [1359, 1489] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "ALL",
+    "fullTime": { "reception": [224, 232], "workplace": [228, 236] },
+    "partTime": { "reception": [1110, 1163], "workplace": [1108, 1159] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "AB",
+    "fullTime": { "reception": [225, 228], "workplace": [226, 229] },
+    "partTime": { "reception": [1043, 1092], "workplace": [1041, 1085] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "C",
+    "fullTime": { "reception": [214, 248], "workplace": [245, 251] },
+    "partTime": { "reception": [null, null], "workplace": [null, null] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "D",
+    "fullTime": { "reception": [252, 262], "workplace": [255, 265] },
+    "partTime": { "reception": [1172, 1175], "workplace": [1164, 1164] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "E",
+    "fullTime": { "reception": [211, 217], "workplace": [211, 217] },
+    "partTime": { "reception": [1005, 1066], "workplace": [1015, 1078] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "F",
+    "fullTime": { "reception": [229, 266], "workplace": [240, 270] },
+    "partTime": { "reception": [1219, 1192], "workplace": [1219, 1192] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "G",
+    "fullTime": { "reception": [274, 277], "workplace": [257, 257] },
+    "partTime": { "reception": [1046, 1131], "workplace": [1107, 1167] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "H",
+    "fullTime": { "reception": [233, 243], "workplace": [233, 243] },
+    "partTime": { "reception": [1080, 1160], "workplace": [1088, 1154] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "I",
+    "fullTime": { "reception": [216, 227], "workplace": [226, 234] },
+    "partTime": { "reception": [1051, 1106], "workplace": [1067, 1102] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "J",
+    "fullTime": { "reception": [219, 237], "workplace": [236, 248] },
+    "partTime": { "reception": [1047, 1097], "workplace": [1058, 1118] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "K",
+    "fullTime": { "reception": [225, 231], "workplace": [233, 238] },
+    "partTime": { "reception": [1083, 1145], "workplace": [1076, 1137] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "L",
+    "fullTime": { "reception": [250, 255], "workplace": [262, 270] },
+    "partTime": { "reception": [1107, 1131], "workplace": [1106, 1138] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "M",
+    "fullTime": { "reception": [226, 233], "workplace": [224, 233] },
+    "partTime": { "reception": [1032, 1083], "workplace": [1033, 1083] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "N",
+    "fullTime": { "reception": [223, 229], "workplace": [239, 249] },
+    "partTime": { "reception": [1074, 1125], "workplace": [1175, 1250] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "O",
+    "fullTime": { "reception": [221, 225], "workplace": [228, 232] },
+    "partTime": { "reception": [1212, 1233], "workplace": [1205, 1217] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "P",
+    "fullTime": { "reception": [217, 223], "workplace": [215, 221] },
+    "partTime": { "reception": [1176, 1225], "workplace": [1147, 1204] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "Q",
+    "fullTime": { "reception": [188, 197], "workplace": [185, 195] },
+    "partTime": { "reception": [997, 1062], "workplace": [997, 1062] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "R",
+    "fullTime": { "reception": [206, 212], "workplace": [219, 225] },
+    "partTime": { "reception": [1033, 1093], "workplace": [1054, 1103] }
+  },
+  {
+    "placeId": "JP-31",
+    "industryId": "ST",
+    "fullTime": { "reception": [206, 220], "workplace": [212, 226] },
+    "partTime": { "reception": [1260, 1365], "workplace": [1264, 1372] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "ALL",
+    "fullTime": { "reception": [221, 230], "workplace": [227, 235] },
+    "partTime": { "reception": [1100, 1157], "workplace": [1111, 1162] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "AB",
+    "fullTime": { "reception": [229, 235], "workplace": [232, 236] },
+    "partTime": { "reception": [996, 1087], "workplace": [997, 1092] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "C",
+    "fullTime": { "reception": [249, 251], "workplace": [247, 253] },
+    "partTime": { "reception": [960, 1113], "workplace": [960, 1100] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "D",
+    "fullTime": { "reception": [250, 257], "workplace": [253, 262] },
+    "partTime": { "reception": [1155, 1205], "workplace": [1157, 1212] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "E",
+    "fullTime": { "reception": [207, 216], "workplace": [209, 217] },
+    "partTime": { "reception": [1008, 1074], "workplace": [1009, 1070] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "F",
+    "fullTime": { "reception": [204, 223], "workplace": [232, 271] },
+    "partTime": { "reception": [1245, 1260], "workplace": [1324, 1260] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "G",
+    "fullTime": { "reception": [277, 277], "workplace": [314, 322] },
+    "partTime": { "reception": [1077, 1152], "workplace": [1101, 1163] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "H",
+    "fullTime": { "reception": [212, 219], "workplace": [215, 222] },
+    "partTime": { "reception": [1080, 1150], "workplace": [1077, 1152] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "I",
+    "fullTime": { "reception": [215, 224], "workplace": [227, 231] },
+    "partTime": { "reception": [1037, 1078], "workplace": [1088, 1097] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "J",
+    "fullTime": { "reception": [227, 249], "workplace": [235, 259] },
+    "partTime": { "reception": [1087, 1099], "workplace": [1093, 1141] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "K",
+    "fullTime": { "reception": [232, 235], "workplace": [242, 246] },
+    "partTime": { "reception": [1086, 1126], "workplace": [1070, 1124] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "L",
+    "fullTime": { "reception": [258, 262], "workplace": [269, 277] },
+    "partTime": { "reception": [1108, 1131], "workplace": [1119, 1130] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "M",
+    "fullTime": { "reception": [230, 247], "workplace": [229, 243] },
+    "partTime": { "reception": [1058, 1109], "workplace": [1052, 1099] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "N",
+    "fullTime": { "reception": [227, 235], "workplace": [233, 241] },
+    "partTime": { "reception": [1097, 1147], "workplace": [1176, 1226] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "O",
+    "fullTime": { "reception": [240, 247], "workplace": [228, 236] },
+    "partTime": { "reception": [1111, 1192], "workplace": [1109, 1207] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "P",
+    "fullTime": { "reception": [209, 219], "workplace": [210, 220] },
+    "partTime": { "reception": [1158, 1206], "workplace": [1155, 1208] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "Q",
+    "fullTime": { "reception": [175, 185], "workplace": [175, 188] },
+    "partTime": { "reception": [977, 1031], "workplace": [975, 1031] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "R",
+    "fullTime": { "reception": [203, 211], "workplace": [213, 220] },
+    "partTime": { "reception": [1062, 1107], "workplace": [1070, 1128] }
+  },
+  {
+    "placeId": "JP-32",
+    "industryId": "ST",
+    "fullTime": { "reception": [223, 240], "workplace": [236, 248] },
+    "partTime": { "reception": [1231, 1353], "workplace": [1228, 1353] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "ALL",
+    "fullTime": { "reception": [239, 247], "workplace": [242, 250] },
+    "partTime": { "reception": [1133, 1182], "workplace": [1142, 1189] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "AB",
+    "fullTime": { "reception": [246, 252], "workplace": [247, 254] },
+    "partTime": { "reception": [1081, 1106], "workplace": [1081, 1100] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "C",
+    "fullTime": { "reception": [246, 255], "workplace": [248, 256] },
+    "partTime": { "reception": [1483, 1393], "workplace": [1483, 1393] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "D",
+    "fullTime": { "reception": [282, 287], "workplace": [283, 290] },
+    "partTime": { "reception": [1164, 1232], "workplace": [1157, 1229] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "E",
+    "fullTime": { "reception": [228, 236], "workplace": [229, 236] },
+    "partTime": { "reception": [1050, 1101], "workplace": [1049, 1099] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "F",
+    "fullTime": { "reception": [303, 325], "workplace": [270, 247] },
+    "partTime": { "reception": [1295, 1403], "workplace": [1261, 1475] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "G",
+    "fullTime": { "reception": [276, 279], "workplace": [271, 276] },
+    "partTime": { "reception": [1184, 1239], "workplace": [1205, 1243] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "H",
+    "fullTime": { "reception": [271, 277], "workplace": [266, 272] },
+    "partTime": { "reception": [1127, 1206], "workplace": [1121, 1194] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "I",
+    "fullTime": { "reception": [231, 237], "workplace": [241, 248] },
+    "partTime": { "reception": [1083, 1134], "workplace": [1101, 1150] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "J",
+    "fullTime": { "reception": [253, 277], "workplace": [267, 281] },
+    "partTime": { "reception": [1060, 1164], "workplace": [1080, 1152] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "K",
+    "fullTime": { "reception": [241, 257], "workplace": [245, 256] },
+    "partTime": { "reception": [1076, 1132], "workplace": [1072, 1127] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "L",
+    "fullTime": { "reception": [257, 280], "workplace": [281, 310] },
+    "partTime": { "reception": [1149, 1225], "workplace": [1178, 1261] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "M",
+    "fullTime": { "reception": [234, 240], "workplace": [237, 245] },
+    "partTime": { "reception": [1071, 1112], "workplace": [1061, 1097] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "N",
+    "fullTime": { "reception": [233, 238], "workplace": [250, 254] },
+    "partTime": { "reception": [1101, 1150], "workplace": [1186, 1233] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "O",
+    "fullTime": { "reception": [234, 242], "workplace": [235, 242] },
+    "partTime": { "reception": [1295, 1331], "workplace": [1279, 1341] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "P",
+    "fullTime": { "reception": [222, 229], "workplace": [221, 227] },
+    "partTime": { "reception": [1196, 1236], "workplace": [1196, 1234] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "Q",
+    "fullTime": { "reception": [186, 196], "workplace": [183, 196] },
+    "partTime": { "reception": [1153, 1171], "workplace": [1131, 1165] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "R",
+    "fullTime": { "reception": [234, 246], "workplace": [241, 253] },
+    "partTime": { "reception": [1069, 1111], "workplace": [1071, 1113] }
+  },
+  {
+    "placeId": "JP-33",
+    "industryId": "ST",
+    "fullTime": { "reception": [198, 211], "workplace": [188, 201] },
+    "partTime": { "reception": [1325, 1403], "workplace": [1371, 1438] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "ALL",
+    "fullTime": { "reception": [244, 252], "workplace": [248, 257] },
+    "partTime": { "reception": [1159, 1217], "workplace": [1185, 1235] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "AB",
+    "fullTime": { "reception": [236, 247], "workplace": [241, 247] },
+    "partTime": { "reception": [1158, 1209], "workplace": [1163, 1216] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "C",
+    "fullTime": { "reception": [235, 240], "workplace": [239, 242] },
+    "partTime": { "reception": [null, 1400], "workplace": [null, 1400] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "D",
+    "fullTime": { "reception": [284, 293], "workplace": [294, 308] },
+    "partTime": { "reception": [1196, 1250], "workplace": [1191, 1253] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "E",
+    "fullTime": { "reception": [238, 245], "workplace": [238, 245] },
+    "partTime": { "reception": [1094, 1140], "workplace": [1097, 1144] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "F",
+    "fullTime": { "reception": [237, 239], "workplace": [228, 236] },
+    "partTime": { "reception": [1237, 1390], "workplace": [1240, 1390] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "G",
+    "fullTime": { "reception": [306, 324], "workplace": [301, 312] },
+    "partTime": { "reception": [1209, 1259], "workplace": [1235, 1278] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "H",
+    "fullTime": { "reception": [242, 247], "workplace": [239, 246] },
+    "partTime": { "reception": [1133, 1176], "workplace": [1149, 1189] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "I",
+    "fullTime": { "reception": [237, 245], "workplace": [245, 253] },
+    "partTime": { "reception": [1082, 1138], "workplace": [1135, 1181] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "J",
+    "fullTime": { "reception": [237, 254], "workplace": [249, 258] },
+    "partTime": { "reception": [1128, 1225], "workplace": [1141, 1225] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "K",
+    "fullTime": { "reception": [252, 272], "workplace": [258, 265] },
+    "partTime": { "reception": [1139, 1157], "workplace": [1123, 1145] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "L",
+    "fullTime": { "reception": [281, 283], "workplace": [282, 285] },
+    "partTime": { "reception": [1206, 1265], "workplace": [1221, 1287] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "M",
+    "fullTime": { "reception": [243, 252], "workplace": [254, 261] },
+    "partTime": { "reception": [1088, 1136], "workplace": [1085, 1126] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "N",
+    "fullTime": { "reception": [264, 261], "workplace": [269, 271] },
+    "partTime": { "reception": [1193, 1202], "workplace": [1224, 1246] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "O",
+    "fullTime": { "reception": [229, 246], "workplace": [232, 243] },
+    "partTime": { "reception": [1324, 1395], "workplace": [1355, 1397] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "P",
+    "fullTime": { "reception": [228, 235], "workplace": [230, 237] },
+    "partTime": { "reception": [1241, 1293], "workplace": [1248, 1296] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "Q",
+    "fullTime": { "reception": [202, 210], "workplace": [207, 214] },
+    "partTime": { "reception": [1131, 1167], "workplace": [1130, 1166] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "R",
+    "fullTime": { "reception": [245, 255], "workplace": [240, 250] },
+    "partTime": { "reception": [1102, 1152], "workplace": [1115, 1162] }
+  },
+  {
+    "placeId": "JP-34",
+    "industryId": "ST",
+    "fullTime": { "reception": [226, 243], "workplace": [222, 237] },
+    "partTime": { "reception": [1400, 1522], "workplace": [1409, 1537] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "ALL",
+    "fullTime": { "reception": [232, 240], "workplace": [234, 242] },
+    "partTime": { "reception": [1135, 1197], "workplace": [1125, 1185] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "AB",
+    "fullTime": { "reception": [213, 222], "workplace": [216, 223] },
+    "partTime": { "reception": [1043, 1111], "workplace": [1038, 1134] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "C",
+    "fullTime": { "reception": [244, 251], "workplace": [244, 250] },
+    "partTime": { "reception": [1100, 1127], "workplace": [1100, 1127] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "D",
+    "fullTime": { "reception": [269, 278], "workplace": [271, 280] },
+    "partTime": { "reception": [1221, 1279], "workplace": [1202, 1235] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "E",
+    "fullTime": { "reception": [226, 234], "workplace": [226, 233] },
+    "partTime": { "reception": [1051, 1102], "workplace": [1047, 1099] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "F",
+    "fullTime": { "reception": [253, 243], "workplace": [266, 262] },
+    "partTime": { "reception": [1724, 1050], "workplace": [1724, 1050] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "G",
+    "fullTime": { "reception": [253, 262], "workplace": [259, 268] },
+    "partTime": { "reception": [1063, 1127], "workplace": [1150, 1173] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "H",
+    "fullTime": { "reception": [220, 229], "workplace": [221, 230] },
+    "partTime": { "reception": [1105, 1148], "workplace": [1106, 1144] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "I",
+    "fullTime": { "reception": [231, 240], "workplace": [233, 241] },
+    "partTime": { "reception": [1131, 1183], "workplace": [1088, 1131] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "J",
+    "fullTime": { "reception": [234, 241], "workplace": [259, 265] },
+    "partTime": { "reception": [1045, 1091], "workplace": [1058, 1106] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "K",
+    "fullTime": { "reception": [241, 245], "workplace": [246, 248] },
+    "partTime": { "reception": [1082, 1114], "workplace": [1080, 1122] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "L",
+    "fullTime": { "reception": [252, 263], "workplace": [266, 271] },
+    "partTime": { "reception": [1185, 1236], "workplace": [1154, 1221] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "M",
+    "fullTime": { "reception": [223, 234], "workplace": [228, 239] },
+    "partTime": { "reception": [1045, 1100], "workplace": [1043, 1095] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "N",
+    "fullTime": { "reception": [229, 231], "workplace": [238, 245] },
+    "partTime": { "reception": [1072, 1141], "workplace": [1139, 1207] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "O",
+    "fullTime": { "reception": [217, 230], "workplace": [222, 233] },
+    "partTime": { "reception": [1320, 1443], "workplace": [1313, 1418] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "P",
+    "fullTime": { "reception": [218, 227], "workplace": [217, 226] },
+    "partTime": { "reception": [1174, 1225], "workplace": [1168, 1221] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "Q",
+    "fullTime": { "reception": [190, 198], "workplace": [190, 199] },
+    "partTime": { "reception": [1013, 1094], "workplace": [1013, 1094] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "R",
+    "fullTime": { "reception": [221, 228], "workplace": [229, 240] },
+    "partTime": { "reception": [1074, 1149], "workplace": [1079, 1155] }
+  },
+  {
+    "placeId": "JP-35",
+    "industryId": "ST",
+    "fullTime": { "reception": [213, 235], "workplace": [209, 227] },
+    "partTime": { "reception": [1212, 1357], "workplace": [1212, 1357] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "ALL",
+    "fullTime": { "reception": [230, 238], "workplace": [234, 242] },
+    "partTime": { "reception": [1151, 1217], "workplace": [1141, 1205] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "AB",
+    "fullTime": { "reception": [217, 228], "workplace": [220, 226] },
+    "partTime": { "reception": [1058, 1114], "workplace": [1060, 1114] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "C",
+    "fullTime": { "reception": [242, 251], "workplace": [242, 251] },
+    "partTime": { "reception": [1105, 1119], "workplace": [1105, 1119] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "D",
+    "fullTime": { "reception": [266, 272], "workplace": [268, 277] },
+    "partTime": { "reception": [1104, 1211], "workplace": [1093, 1211] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "E",
+    "fullTime": { "reception": [219, 228], "workplace": [218, 227] },
+    "partTime": { "reception": [1030, 1084], "workplace": [1029, 1081] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "F",
+    "fullTime": { "reception": [227, 251], "workplace": [227, 249] },
+    "partTime": { "reception": [1030, 1176], "workplace": [1030, 1176] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "G",
+    "fullTime": { "reception": [255, 261], "workplace": [271, 263] },
+    "partTime": { "reception": [1158, 1215], "workplace": [1203, 1212] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "H",
+    "fullTime": { "reception": [232, 239], "workplace": [234, 239] },
+    "partTime": { "reception": [1064, 1157], "workplace": [1082, 1172] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "I",
+    "fullTime": { "reception": [230, 238], "workplace": [234, 243] },
+    "partTime": { "reception": [1121, 1172], "workplace": [1096, 1139] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "J",
+    "fullTime": { "reception": [252, 271], "workplace": [249, 255] },
+    "partTime": { "reception": [1062, 1097], "workplace": [1091, 1119] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "K",
+    "fullTime": { "reception": [247, 253], "workplace": [252, 249] },
+    "partTime": { "reception": [1090, 1118], "workplace": [1083, 1115] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "L",
+    "fullTime": { "reception": [259, 273], "workplace": [282, 297] },
+    "partTime": { "reception": [1133, 1236], "workplace": [1118, 1215] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "M",
+    "fullTime": { "reception": [237, 247], "workplace": [232, 244] },
+    "partTime": { "reception": [1047, 1117], "workplace": [1037, 1108] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "N",
+    "fullTime": { "reception": [231, 235], "workplace": [244, 249] },
+    "partTime": { "reception": [1122, 1157], "workplace": [1224, 1274] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "O",
+    "fullTime": { "reception": [223, 228], "workplace": [229, 237] },
+    "partTime": { "reception": [1164, 1270], "workplace": [1178, 1306] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "P",
+    "fullTime": { "reception": [222, 229], "workplace": [222, 228] },
+    "partTime": { "reception": [1220, 1280], "workplace": [1213, 1273] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "Q",
+    "fullTime": { "reception": [191, 204], "workplace": [198, 212] },
+    "partTime": { "reception": [1059, 1148], "workplace": [1059, 1148] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "R",
+    "fullTime": { "reception": [220, 225], "workplace": [224, 234] },
+    "partTime": { "reception": [1056, 1111], "workplace": [1053, 1111] }
+  },
+  {
+    "placeId": "JP-36",
+    "industryId": "ST",
+    "fullTime": { "reception": [204, 219], "workplace": [207, 233] },
+    "partTime": { "reception": [1309, 1422], "workplace": [1318, 1431] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "ALL",
+    "fullTime": { "reception": [237, 245], "workplace": [241, 250] },
+    "partTime": { "reception": [1138, 1202], "workplace": [1142, 1204] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "AB",
+    "fullTime": { "reception": [223, 237], "workplace": [218, 237] },
+    "partTime": { "reception": [1083, 1116], "workplace": [1080, 1118] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "C",
+    "fullTime": { "reception": [234, 228], "workplace": [234, 228] },
+    "partTime": { "reception": [1300, null], "workplace": [1300, null] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "D",
+    "fullTime": { "reception": [271, 280], "workplace": [273, 282] },
+    "partTime": { "reception": [1153, 1213], "workplace": [1159, 1205] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "E",
+    "fullTime": { "reception": [229, 236], "workplace": [230, 236] },
+    "partTime": { "reception": [1052, 1097], "workplace": [1047, 1098] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "F",
+    "fullTime": { "reception": [217, 225], "workplace": [222, 228] },
+    "partTime": { "reception": [1214, 1364], "workplace": [1262, 1393] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "G",
+    "fullTime": { "reception": [256, 258], "workplace": [258, 269] },
+    "partTime": { "reception": [1265, 1521], "workplace": [1367, 1459] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "H",
+    "fullTime": { "reception": [247, 255], "workplace": [247, 254] },
+    "partTime": { "reception": [1105, 1156], "workplace": [1119, 1166] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "I",
+    "fullTime": { "reception": [234, 244], "workplace": [244, 253] },
+    "partTime": { "reception": [1106, 1157], "workplace": [1091, 1137] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "J",
+    "fullTime": { "reception": [231, 244], "workplace": [252, 257] },
+    "partTime": { "reception": [1131, 1173], "workplace": [1064, 1122] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "K",
+    "fullTime": { "reception": [254, 261], "workplace": [257, 268] },
+    "partTime": { "reception": [1049, 1109], "workplace": [1082, 1133] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "L",
+    "fullTime": { "reception": [254, 297], "workplace": [266, 322] },
+    "partTime": { "reception": [1144, 1241], "workplace": [1173, 1246] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "M",
+    "fullTime": { "reception": [226, 236], "workplace": [236, 244] },
+    "partTime": { "reception": [1062, 1122], "workplace": [1059, 1108] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "N",
+    "fullTime": { "reception": [237, 242], "workplace": [249, 253] },
+    "partTime": { "reception": [1095, 1150], "workplace": [1146, 1208] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "O",
+    "fullTime": { "reception": [222, 223], "workplace": [223, 230] },
+    "partTime": { "reception": [1219, 1189], "workplace": [1221, 1186] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "P",
+    "fullTime": { "reception": [231, 239], "workplace": [231, 239] },
+    "partTime": { "reception": [1238, 1310], "workplace": [1235, 1304] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "Q",
+    "fullTime": { "reception": [210, 219], "workplace": [206, 215] },
+    "partTime": { "reception": [999, 1052], "workplace": [997, 1050] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "R",
+    "fullTime": { "reception": [215, 217], "workplace": [226, 230] },
+    "partTime": { "reception": [1053, 1110], "workplace": [1062, 1117] }
+  },
+  {
+    "placeId": "JP-37",
+    "industryId": "ST",
+    "fullTime": { "reception": [212, 234], "workplace": [215, 238] },
+    "partTime": { "reception": [1297, 1405], "workplace": [1352, 1468] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "ALL",
+    "fullTime": { "reception": [229, 237], "workplace": [230, 240] },
+    "partTime": { "reception": [1113, 1177], "workplace": [1112, 1172] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "AB",
+    "fullTime": { "reception": [235, 246], "workplace": [235, 250] },
+    "partTime": { "reception": [1038, 1089], "workplace": [1037, 1090] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "C",
+    "fullTime": { "reception": [211, 221], "workplace": [210, 222] },
+    "partTime": { "reception": [1083, 1158], "workplace": [1083, 1158] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "D",
+    "fullTime": { "reception": [261, 267], "workplace": [263, 270] },
+    "partTime": { "reception": [1124, 1199], "workplace": [1121, 1196] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "E",
+    "fullTime": { "reception": [228, 236], "workplace": [227, 235] },
+    "partTime": { "reception": [1015, 1077], "workplace": [1013, 1075] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "F",
+    "fullTime": { "reception": [235, 230], "workplace": [225, 228] },
+    "partTime": { "reception": [1160, 1180], "workplace": [1137, 1175] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "G",
+    "fullTime": { "reception": [272, 289], "workplace": [269, 285] },
+    "partTime": { "reception": [1176, 1156], "workplace": [1191, 1184] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "H",
+    "fullTime": { "reception": [231, 241], "workplace": [228, 238] },
+    "partTime": { "reception": [1056, 1114], "workplace": [1054, 1115] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "I",
+    "fullTime": { "reception": [238, 245], "workplace": [236, 242] },
+    "partTime": { "reception": [1099, 1169], "workplace": [1091, 1142] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "J",
+    "fullTime": { "reception": [243, 245], "workplace": [236, 248] },
+    "partTime": { "reception": [1059, 1133], "workplace": [1065, 1130] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "K",
+    "fullTime": { "reception": [227, 234], "workplace": [235, 243] },
+    "partTime": { "reception": [1055, 1111], "workplace": [1051, 1104] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "L",
+    "fullTime": { "reception": [247, 273], "workplace": [269, 314] },
+    "partTime": { "reception": [1109, 1169], "workplace": [1158, 1171] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "M",
+    "fullTime": { "reception": [236, 251], "workplace": [227, 241] },
+    "partTime": { "reception": [1039, 1094], "workplace": [1033, 1089] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "N",
+    "fullTime": { "reception": [211, 222], "workplace": [229, 236] },
+    "partTime": { "reception": [1052, 1100], "workplace": [1124, 1181] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "O",
+    "fullTime": { "reception": [225, 242], "workplace": [224, 238] },
+    "partTime": { "reception": [1211, 1277], "workplace": [1201, 1255] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "P",
+    "fullTime": { "reception": [219, 227], "workplace": [219, 227] },
+    "partTime": { "reception": [1177, 1233], "workplace": [1181, 1237] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "Q",
+    "fullTime": { "reception": [190, 194], "workplace": [191, 195] },
+    "partTime": { "reception": [1065, 1178], "workplace": [1074, 1186] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "R",
+    "fullTime": { "reception": [209, 215], "workplace": [217, 225] },
+    "partTime": { "reception": [1009, 1079], "workplace": [1015, 1083] }
+  },
+  {
+    "placeId": "JP-38",
+    "industryId": "ST",
+    "fullTime": { "reception": [213, 230], "workplace": [215, 232] },
+    "partTime": { "reception": [1208, 1336], "workplace": [1203, 1332] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "ALL",
+    "fullTime": { "reception": [222, 231], "workplace": [224, 233] },
+    "partTime": { "reception": [1113, 1174], "workplace": [1122, 1175] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "AB",
+    "fullTime": { "reception": [210, 223], "workplace": [212, 223] },
+    "partTime": { "reception": [1017, 1076], "workplace": [1016, 1076] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "C",
+    "fullTime": { "reception": [239, 224], "workplace": [238, 223] },
+    "partTime": { "reception": [null, 1370], "workplace": [null, 1370] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "D",
+    "fullTime": { "reception": [258, 264], "workplace": [259, 265] },
+    "partTime": { "reception": [1181, 1253], "workplace": [1174, 1246] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "E",
+    "fullTime": { "reception": [212, 219], "workplace": [209, 216] },
+    "partTime": { "reception": [1001, 1064], "workplace": [1004, 1072] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "F",
+    "fullTime": { "reception": [218, 224], "workplace": [215, 220] },
+    "partTime": { "reception": [1000, 1258], "workplace": [1000, 1258] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "G",
+    "fullTime": { "reception": [261, 291], "workplace": [262, 286] },
+    "partTime": { "reception": [1256, 1460], "workplace": [1300, 1408] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "H",
+    "fullTime": { "reception": [215, 218], "workplace": [215, 220] },
+    "partTime": { "reception": [1023, 1083], "workplace": [1021, 1072] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "I",
+    "fullTime": { "reception": [206, 219], "workplace": [223, 234] },
+    "partTime": { "reception": [1053, 1097], "workplace": [1063, 1084] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "J",
+    "fullTime": { "reception": [211, 214], "workplace": [233, 235] },
+    "partTime": { "reception": [1066, 1098], "workplace": [1082, 1105] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "K",
+    "fullTime": { "reception": [215, 220], "workplace": [229, 229] },
+    "partTime": { "reception": [1045, 1070], "workplace": [1055, 1065] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "L",
+    "fullTime": { "reception": [309, 308], "workplace": [283, 304] },
+    "partTime": { "reception": [1180, 1191], "workplace": [1158, 1183] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "M",
+    "fullTime": { "reception": [215, 227], "workplace": [211, 223] },
+    "partTime": { "reception": [1017, 1063], "workplace": [1019, 1064] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "N",
+    "fullTime": { "reception": [207, 218], "workplace": [233, 248] },
+    "partTime": { "reception": [1054, 1100], "workplace": [1278, 1316] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "O",
+    "fullTime": { "reception": [220, 227], "workplace": [221, 227] },
+    "partTime": { "reception": [1239, 1322], "workplace": [1235, 1318] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "P",
+    "fullTime": { "reception": [214, 222], "workplace": [212, 219] },
+    "partTime": { "reception": [1181, 1253], "workplace": [1176, 1243] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "Q",
+    "fullTime": { "reception": [182, 196], "workplace": [184, 200] },
+    "partTime": { "reception": [1013, 1050], "workplace": [1011, 1053] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "R",
+    "fullTime": { "reception": [206, 214], "workplace": [211, 217] },
+    "partTime": { "reception": [1021, 1087], "workplace": [1027, 1081] }
+  },
+  {
+    "placeId": "JP-39",
+    "industryId": "ST",
+    "fullTime": { "reception": [206, 223], "workplace": [209, 228] },
+    "partTime": { "reception": [1218, 1327], "workplace": [1217, 1326] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "ALL",
+    "fullTime": { "reception": [239, 249], "workplace": [246, 256] },
+    "partTime": { "reception": [1182, 1240], "workplace": [1176, 1230] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "AB",
+    "fullTime": { "reception": [228, 235], "workplace": [224, 234] },
+    "partTime": { "reception": [1047, 1106], "workplace": [1054, 1113] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "C",
+    "fullTime": { "reception": [218, 226], "workplace": [217, 226] },
+    "partTime": { "reception": [1109, 1321], "workplace": [1109, 1321] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "D",
+    "fullTime": { "reception": [278, 283], "workplace": [282, 288] },
+    "partTime": { "reception": [1182, 1247], "workplace": [1202, 1255] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "E",
+    "fullTime": { "reception": [227, 234], "workplace": [232, 238] },
+    "partTime": { "reception": [1059, 1105], "workplace": [1065, 1111] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "F",
+    "fullTime": { "reception": [216, 222], "workplace": [223, 226] },
+    "partTime": { "reception": [1102, 1149], "workplace": [1099, 1222] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "G",
+    "fullTime": { "reception": [291, 304], "workplace": [300, 308] },
+    "partTime": { "reception": [1207, 1307], "workplace": [1200, 1285] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "H",
+    "fullTime": { "reception": [228, 235], "workplace": [230, 238] },
+    "partTime": { "reception": [1123, 1162], "workplace": [1120, 1164] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "I",
+    "fullTime": { "reception": [229, 243], "workplace": [244, 251] },
+    "partTime": { "reception": [1134, 1171], "workplace": [1158, 1188] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "J",
+    "fullTime": { "reception": [249, 250], "workplace": [266, 268] },
+    "partTime": { "reception": [1147, 1174], "workplace": [1156, 1190] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "K",
+    "fullTime": { "reception": [250, 257], "workplace": [255, 261] },
+    "partTime": { "reception": [1136, 1182], "workplace": [1113, 1153] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "L",
+    "fullTime": { "reception": [280, 299], "workplace": [322, 344] },
+    "partTime": { "reception": [1186, 1251], "workplace": [1228, 1255] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "M",
+    "fullTime": { "reception": [236, 259], "workplace": [238, 256] },
+    "partTime": { "reception": [1055, 1109], "workplace": [1055, 1106] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "N",
+    "fullTime": { "reception": [270, 289], "workplace": [247, 256] },
+    "partTime": { "reception": [1414, 1553], "workplace": [1193, 1263] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "O",
+    "fullTime": { "reception": [232, 237], "workplace": [234, 238] },
+    "partTime": { "reception": [1439, 1474], "workplace": [1390, 1440] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "P",
+    "fullTime": { "reception": [227, 234], "workplace": [227, 235] },
+    "partTime": { "reception": [1222, 1276], "workplace": [1222, 1276] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "Q",
+    "fullTime": { "reception": [202, 213], "workplace": [205, 217] },
+    "partTime": { "reception": [1078, 1130], "workplace": [1074, 1131] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "R",
+    "fullTime": { "reception": [231, 246], "workplace": [238, 250] },
+    "partTime": { "reception": [1070, 1126], "workplace": [1078, 1138] }
+  },
+  {
+    "placeId": "JP-40",
+    "industryId": "ST",
+    "fullTime": { "reception": [217, 237], "workplace": [214, 231] },
+    "partTime": { "reception": [1383, 1510], "workplace": [1406, 1517] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "ALL",
+    "fullTime": { "reception": [228, 237], "workplace": [230, 238] },
+    "partTime": { "reception": [1101, 1166], "workplace": [1113, 1171] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "AB",
+    "fullTime": { "reception": [239, 231], "workplace": [237, 230] },
+    "partTime": { "reception": [1036, 1063], "workplace": [1028, 1062] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "C",
+    "fullTime": { "reception": [195, 204], "workplace": [195, 204] },
+    "partTime": { "reception": [1062, 1125], "workplace": [1062, 1125] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "D",
+    "fullTime": { "reception": [266, 273], "workplace": [268, 275] },
+    "partTime": { "reception": [1200, 1166], "workplace": [1189, 1167] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "E",
+    "fullTime": { "reception": [214, 222], "workplace": [215, 222] },
+    "partTime": { "reception": [1019, 1067], "workplace": [1022, 1072] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "F",
+    "fullTime": { "reception": [222, 213], "workplace": [224, 228] },
+    "partTime": { "reception": [1166, 1280], "workplace": [1155, 1221] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "G",
+    "fullTime": { "reception": [299, 323], "workplace": [274, 285] },
+    "partTime": { "reception": [1082, 1149], "workplace": [1191, 1217] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "H",
+    "fullTime": { "reception": [224, 234], "workplace": [227, 237] },
+    "partTime": { "reception": [1067, 1143], "workplace": [1082, 1153] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "I",
+    "fullTime": { "reception": [224, 231], "workplace": [228, 237] },
+    "partTime": { "reception": [1060, 1125], "workplace": [1075, 1113] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "J",
+    "fullTime": { "reception": [223, 240], "workplace": [243, 257] },
+    "partTime": { "reception": [1071, 1094], "workplace": [1093, 1120] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "K",
+    "fullTime": { "reception": [230, 235], "workplace": [240, 246] },
+    "partTime": { "reception": [1025, 1068], "workplace": [1064, 1110] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "L",
+    "fullTime": { "reception": [261, 264], "workplace": [272, 274] },
+    "partTime": { "reception": [1107, 1164], "workplace": [1104, 1171] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "M",
+    "fullTime": { "reception": [227, 238], "workplace": [229, 251] },
+    "partTime": { "reception": [1048, 1113], "workplace": [1044, 1101] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "N",
+    "fullTime": { "reception": [213, 222], "workplace": [237, 244] },
+    "partTime": { "reception": [1033, 1088], "workplace": [1144, 1202] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "O",
+    "fullTime": { "reception": [206, 218], "workplace": [212, 224] },
+    "partTime": { "reception": [1174, 1238], "workplace": [1289, 1305] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "P",
+    "fullTime": { "reception": [216, 224], "workplace": [216, 224] },
+    "partTime": { "reception": [1134, 1191], "workplace": [1138, 1194] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "Q",
+    "fullTime": { "reception": [172, 190], "workplace": [184, 200] },
+    "partTime": { "reception": [1024, 1032], "workplace": [1038, 1031] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "R",
+    "fullTime": { "reception": [211, 219], "workplace": [218, 226] },
+    "partTime": { "reception": [1013, 1088], "workplace": [1023, 1099] }
+  },
+  {
+    "placeId": "JP-41",
+    "industryId": "ST",
+    "fullTime": { "reception": [213, 226], "workplace": [212, 227] },
+    "partTime": { "reception": [1249, 1354], "workplace": [1260, 1365] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "ALL",
+    "fullTime": { "reception": [219, 228], "workplace": [222, 231] },
+    "partTime": { "reception": [1099, 1160], "workplace": [1104, 1163] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "AB",
+    "fullTime": { "reception": [206, 217], "workplace": [206, 217] },
+    "partTime": { "reception": [999, 1072], "workplace": [999, 1075] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "C",
+    "fullTime": { "reception": [230, 244], "workplace": [227, 243] },
+    "partTime": { "reception": [1042, 1100], "workplace": [1042, 1100] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "D",
+    "fullTime": { "reception": [257, 266], "workplace": [259, 266] },
+    "partTime": { "reception": [1105, 1168], "workplace": [1104, 1166] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "E",
+    "fullTime": { "reception": [217, 226], "workplace": [217, 226] },
+    "partTime": { "reception": [998, 1069], "workplace": [998, 1065] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "F",
+    "fullTime": { "reception": [220, 227], "workplace": [219, 224] },
+    "partTime": { "reception": [1244, 1208], "workplace": [1220, 1198] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "G",
+    "fullTime": { "reception": [259, 269], "workplace": [255, 267] },
+    "partTime": { "reception": [1082, 1157], "workplace": [1090, 1159] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "H",
+    "fullTime": { "reception": [203, 214], "workplace": [203, 211] },
+    "partTime": { "reception": [1030, 1083], "workplace": [1035, 1086] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "I",
+    "fullTime": { "reception": [220, 229], "workplace": [223, 233] },
+    "partTime": { "reception": [1066, 1123], "workplace": [1072, 1124] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "J",
+    "fullTime": { "reception": [222, 246], "workplace": [242, 255] },
+    "partTime": { "reception": [1023, 1093], "workplace": [1054, 1128] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "K",
+    "fullTime": { "reception": [227, 235], "workplace": [235, 238] },
+    "partTime": { "reception": [1055, 1126], "workplace": [1065, 1098] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "L",
+    "fullTime": { "reception": [241, 250], "workplace": [256, 264] },
+    "partTime": { "reception": [1127, 1172], "workplace": [1130, 1153] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "M",
+    "fullTime": { "reception": [230, 235], "workplace": [223, 237] },
+    "partTime": { "reception": [1040, 1103], "workplace": [1038, 1093] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "N",
+    "fullTime": { "reception": [217, 227], "workplace": [233, 244] },
+    "partTime": { "reception": [1068, 1130], "workplace": [1119, 1193] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "O",
+    "fullTime": { "reception": [216, 220], "workplace": [221, 223] },
+    "partTime": { "reception": [1190, 1228], "workplace": [1242, 1278] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "P",
+    "fullTime": { "reception": [207, 216], "workplace": [209, 218] },
+    "partTime": { "reception": [1138, 1194], "workplace": [1144, 1201] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "Q",
+    "fullTime": { "reception": [176, 183], "workplace": [181, 192] },
+    "partTime": { "reception": [976, 1027], "workplace": [979, 1026] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "R",
+    "fullTime": { "reception": [209, 217], "workplace": [218, 225] },
+    "partTime": { "reception": [1023, 1077], "workplace": [1025, 1078] }
+  },
+  {
+    "placeId": "JP-42",
+    "industryId": "ST",
+    "fullTime": { "reception": [220, 227], "workplace": [218, 225] },
+    "partTime": { "reception": [1221, 1347], "workplace": [1221, 1354] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "ALL",
+    "fullTime": { "reception": [225, 233], "workplace": [230, 238] },
+    "partTime": { "reception": [1136, 1193], "workplace": [1151, 1202] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "AB",
+    "fullTime": { "reception": [220, 227], "workplace": [221, 229] },
+    "partTime": { "reception": [1042, 1111], "workplace": [1040, 1111] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "C",
+    "fullTime": { "reception": [213, 226], "workplace": [213, 226] },
+    "partTime": { "reception": [1000, 1138], "workplace": [1000, 1138] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "D",
+    "fullTime": { "reception": [265, 273], "workplace": [269, 277] },
+    "partTime": { "reception": [1207, 1241], "workplace": [1213, 1249] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "E",
+    "fullTime": { "reception": [222, 229], "workplace": [222, 229] },
+    "partTime": { "reception": [1014, 1075], "workplace": [1021, 1077] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "F",
+    "fullTime": { "reception": [211, 227], "workplace": [216, 224] },
+    "partTime": { "reception": [1089, 1133], "workplace": [1089, 1197] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "G",
+    "fullTime": { "reception": [255, 262], "workplace": [262, 275] },
+    "partTime": { "reception": [1108, 1150], "workplace": [1142, 1179] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "H",
+    "fullTime": { "reception": [218, 225], "workplace": [219, 224] },
+    "partTime": { "reception": [1114, 1193], "workplace": [1100, 1185] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "I",
+    "fullTime": { "reception": [225, 233], "workplace": [238, 243] },
+    "partTime": { "reception": [1077, 1143], "workplace": [1116, 1146] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "J",
+    "fullTime": { "reception": [229, 246], "workplace": [255, 256] },
+    "partTime": { "reception": [1133, 1177], "workplace": [1131, 1172] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "K",
+    "fullTime": { "reception": [235, 240], "workplace": [245, 254] },
+    "partTime": { "reception": [1093, 1131], "workplace": [1058, 1122] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "L",
+    "fullTime": { "reception": [262, 268], "workplace": [274, 296] },
+    "partTime": { "reception": [1138, 1206], "workplace": [1157, 1214] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "M",
+    "fullTime": { "reception": [225, 235], "workplace": [228, 239] },
+    "partTime": { "reception": [1057, 1101], "workplace": [1055, 1093] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "N",
+    "fullTime": { "reception": [236, 242], "workplace": [245, 252] },
+    "partTime": { "reception": [1075, 1143], "workplace": [1195, 1259] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "O",
+    "fullTime": { "reception": [221, 222], "workplace": [220, 223] },
+    "partTime": { "reception": [1243, 1330], "workplace": [1434, 1548] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "P",
+    "fullTime": { "reception": [215, 223], "workplace": [216, 224] },
+    "partTime": { "reception": [1190, 1236], "workplace": [1188, 1231] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "Q",
+    "fullTime": { "reception": [192, 205], "workplace": [189, 199] },
+    "partTime": { "reception": [999, 1115], "workplace": [1000, 1115] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "R",
+    "fullTime": { "reception": [207, 216], "workplace": [216, 226] },
+    "partTime": { "reception": [1034, 1092], "workplace": [1054, 1106] }
+  },
+  {
+    "placeId": "JP-43",
+    "industryId": "ST",
+    "fullTime": { "reception": [213, 232], "workplace": [211, 229] },
+    "partTime": { "reception": [1271, 1370], "workplace": [1281, 1386] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "ALL",
+    "fullTime": { "reception": [227, 236], "workplace": [230, 239] },
+    "partTime": { "reception": [1107, 1162], "workplace": [1113, 1167] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "AB",
+    "fullTime": { "reception": [222, 236], "workplace": [221, 238] },
+    "partTime": { "reception": [1012, 1100], "workplace": [1015, 1101] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "C",
+    "fullTime": { "reception": [225, 239], "workplace": [225, 239] },
+    "partTime": { "reception": [1325, 1320], "workplace": [1325, 1320] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "D",
+    "fullTime": { "reception": [269, 276], "workplace": [270, 276] },
+    "partTime": { "reception": [1105, 1150], "workplace": [1106, 1145] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "E",
+    "fullTime": { "reception": [215, 225], "workplace": [215, 223] },
+    "partTime": { "reception": [1009, 1063], "workplace": [1006, 1061] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "F",
+    "fullTime": { "reception": [230, 244], "workplace": [217, 233] },
+    "partTime": { "reception": [1073, 1165], "workplace": [1070, 1169] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "G",
+    "fullTime": { "reception": [267, 279], "workplace": [283, 292] },
+    "partTime": { "reception": [1110, 1148], "workplace": [1148, 1196] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "H",
+    "fullTime": { "reception": [222, 233], "workplace": [222, 231] },
+    "partTime": { "reception": [1061, 1103], "workplace": [1067, 1106] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "I",
+    "fullTime": { "reception": [233, 240], "workplace": [232, 239] },
+    "partTime": { "reception": [1061, 1115], "workplace": [1083, 1126] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "J",
+    "fullTime": { "reception": [222, 235], "workplace": [244, 264] },
+    "partTime": { "reception": [1064, 1171], "workplace": [1083, 1172] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "K",
+    "fullTime": { "reception": [247, 255], "workplace": [248, 257] },
+    "partTime": { "reception": [1071, 1102], "workplace": [1101, 1120] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "L",
+    "fullTime": { "reception": [251, 261], "workplace": [266, 276] },
+    "partTime": { "reception": [1134, 1185], "workplace": [1127, 1193] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "M",
+    "fullTime": { "reception": [220, 233], "workplace": [229, 243] },
+    "partTime": { "reception": [1065, 1102], "workplace": [1057, 1088] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "N",
+    "fullTime": { "reception": [218, 230], "workplace": [232, 243] },
+    "partTime": { "reception": [1069, 1113], "workplace": [1134, 1189] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "O",
+    "fullTime": { "reception": [220, 232], "workplace": [218, 230] },
+    "partTime": { "reception": [1249, 1302], "workplace": [1324, 1369] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "P",
+    "fullTime": { "reception": [215, 222], "workplace": [216, 223] },
+    "partTime": { "reception": [1152, 1207], "workplace": [1151, 1206] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "Q",
+    "fullTime": { "reception": [174, 183], "workplace": [177, 183] },
+    "partTime": { "reception": [980, 1033], "workplace": [980, 1026] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "R",
+    "fullTime": { "reception": [213, 224], "workplace": [220, 229] },
+    "partTime": { "reception": [1030, 1098], "workplace": [1034, 1105] }
+  },
+  {
+    "placeId": "JP-44",
+    "industryId": "ST",
+    "fullTime": { "reception": [224, 244], "workplace": [227, 249] },
+    "partTime": { "reception": [1260, 1370], "workplace": [1271, 1392] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "ALL",
+    "fullTime": { "reception": [218, 227], "workplace": [220, 229] },
+    "partTime": { "reception": [1085, 1146], "workplace": [1092, 1148] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "AB",
+    "fullTime": { "reception": [220, 229], "workplace": [222, 229] },
+    "partTime": { "reception": [1035, 1097], "workplace": [1039, 1097] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "C",
+    "fullTime": { "reception": [240, 232], "workplace": [239, 232] },
+    "partTime": { "reception": [897, 1023], "workplace": [897, 1023] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "D",
+    "fullTime": { "reception": [256, 262], "workplace": [259, 265] },
+    "partTime": { "reception": [1089, 1169], "workplace": [1090, 1151] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "E",
+    "fullTime": { "reception": [208, 216], "workplace": [208, 215] },
+    "partTime": { "reception": [1007, 1057], "workplace": [1002, 1054] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "F",
+    "fullTime": { "reception": [229, 215], "workplace": [232, 252] },
+    "partTime": { "reception": [1108, 1070], "workplace": [1141, 1150] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "G",
+    "fullTime": { "reception": [266, 272], "workplace": [247, 261] },
+    "partTime": { "reception": [1115, 1193], "workplace": [1116, 1222] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "H",
+    "fullTime": { "reception": [222, 230], "workplace": [222, 230] },
+    "partTime": { "reception": [1008, 1084], "workplace": [1012, 1088] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "I",
+    "fullTime": { "reception": [218, 222], "workplace": [225, 229] },
+    "partTime": { "reception": [1068, 1121], "workplace": [1094, 1122] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "J",
+    "fullTime": { "reception": [236, 245], "workplace": [252, 257] },
+    "partTime": { "reception": [1009, 1072], "workplace": [1040, 1108] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "K",
+    "fullTime": { "reception": [225, 230], "workplace": [230, 240] },
+    "partTime": { "reception": [1019, 1067], "workplace": [1029, 1077] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "L",
+    "fullTime": { "reception": [242, 256], "workplace": [257, 273] },
+    "partTime": { "reception": [1062, 1127], "workplace": [1079, 1136] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "M",
+    "fullTime": { "reception": [216, 230], "workplace": [219, 230] },
+    "partTime": { "reception": [1038, 1083], "workplace": [1031, 1073] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "N",
+    "fullTime": { "reception": [205, 225], "workplace": [221, 241] },
+    "partTime": { "reception": [1048, 1115], "workplace": [1131, 1191] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "O",
+    "fullTime": { "reception": [214, 221], "workplace": [215, 222] },
+    "partTime": { "reception": [1127, 1161], "workplace": [1151, 1177] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "P",
+    "fullTime": { "reception": [206, 216], "workplace": [207, 216] },
+    "partTime": { "reception": [1121, 1182], "workplace": [1123, 1182] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "Q",
+    "fullTime": { "reception": [177, 197], "workplace": [182, 202] },
+    "partTime": { "reception": [1142, 1196], "workplace": [1142, 1195] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "R",
+    "fullTime": { "reception": [204, 214], "workplace": [208, 220] },
+    "partTime": { "reception": [1008, 1079], "workplace": [1014, 1088] }
+  },
+  {
+    "placeId": "JP-45",
+    "industryId": "ST",
+    "fullTime": { "reception": [206, 215], "workplace": [204, 211] },
+    "partTime": { "reception": [1270, 1378], "workplace": [1269, 1378] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "ALL",
+    "fullTime": { "reception": [225, 234], "workplace": [228, 237] },
+    "partTime": { "reception": [1097, 1163], "workplace": [1104, 1165] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "AB",
+    "fullTime": { "reception": [218, 228], "workplace": [220, 229] },
+    "partTime": { "reception": [1033, 1103], "workplace": [1045, 1117] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "C",
+    "fullTime": { "reception": [227, 246], "workplace": [227, 249] },
+    "partTime": { "reception": [1097, 1195], "workplace": [1097, 1195] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "D",
+    "fullTime": { "reception": [266, 273], "workplace": [269, 274] },
+    "partTime": { "reception": [1134, 1196], "workplace": [1125, 1198] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "E",
+    "fullTime": { "reception": [209, 218], "workplace": [211, 219] },
+    "partTime": { "reception": [998, 1056], "workplace": [1002, 1059] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "F",
+    "fullTime": { "reception": [213, 229], "workplace": [213, 229] },
+    "partTime": { "reception": [1034, 1153], "workplace": [1034, 1153] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "G",
+    "fullTime": { "reception": [251, 249], "workplace": [284, 283] },
+    "partTime": { "reception": [1056, 1121], "workplace": [1077, 1148] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "H",
+    "fullTime": { "reception": [221, 227], "workplace": [222, 229] },
+    "partTime": { "reception": [1116, 1143], "workplace": [1129, 1159] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "I",
+    "fullTime": { "reception": [224, 233], "workplace": [229, 236] },
+    "partTime": { "reception": [1063, 1113], "workplace": [1100, 1121] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "J",
+    "fullTime": { "reception": [233, 251], "workplace": [250, 268] },
+    "partTime": { "reception": [1030, 1101], "workplace": [1052, 1107] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "K",
+    "fullTime": { "reception": [237, 250], "workplace": [238, 248] },
+    "partTime": { "reception": [1060, 1133], "workplace": [1077, 1149] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "L",
+    "fullTime": { "reception": [256, 283], "workplace": [262, 313] },
+    "partTime": { "reception": [1093, 1175], "workplace": [1092, 1184] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "M",
+    "fullTime": { "reception": [223, 238], "workplace": [224, 237] },
+    "partTime": { "reception": [1038, 1088], "workplace": [1035, 1083] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "N",
+    "fullTime": { "reception": [216, 224], "workplace": [230, 242] },
+    "partTime": { "reception": [1061, 1128], "workplace": [1129, 1203] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "O",
+    "fullTime": { "reception": [207, 211], "workplace": [211, 214] },
+    "partTime": { "reception": [1155, 1262], "workplace": [1166, 1262] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "P",
+    "fullTime": { "reception": [217, 226], "workplace": [217, 225] },
+    "partTime": { "reception": [1138, 1203], "workplace": [1138, 1201] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "Q",
+    "fullTime": { "reception": [182, 194], "workplace": [182, 193] },
+    "partTime": { "reception": [1025, 1096], "workplace": [1033, 1100] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "R",
+    "fullTime": { "reception": [205, 214], "workplace": [213, 222] },
+    "partTime": { "reception": [1019, 1087], "workplace": [1027, 1096] }
+  },
+  {
+    "placeId": "JP-46",
+    "industryId": "ST",
+    "fullTime": { "reception": [207, 228], "workplace": [212, 231] },
+    "partTime": { "reception": [1241, 1312], "workplace": [1241, 1311] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "ALL",
+    "fullTime": { "reception": [223, 233], "workplace": [227, 239] },
+    "partTime": { "reception": [1172, 1250], "workplace": [1177, 1250] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "AB",
+    "fullTime": { "reception": [209, 207], "workplace": [210, 209] },
+    "partTime": { "reception": [1059, 1141], "workplace": [1056, 1136] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "C",
+    "fullTime": { "reception": [206, 214], "workplace": [201, 214] },
+    "partTime": { "reception": [1205, 1040], "workplace": [960, 1040] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "D",
+    "fullTime": { "reception": [259, 269], "workplace": [261, 273] },
+    "partTime": { "reception": [1105, 1186], "workplace": [1122, 1176] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "E",
+    "fullTime": { "reception": [203, 214], "workplace": [210, 218] },
+    "partTime": { "reception": [1056, 1111], "workplace": [1057, 1112] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "F",
+    "fullTime": { "reception": [231, 246], "workplace": [230, 242] },
+    "partTime": { "reception": [1209, 1283], "workplace": [1209, 1283] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "G",
+    "fullTime": { "reception": [258, 269], "workplace": [265, 274] },
+    "partTime": { "reception": [1204, 1209], "workplace": [1222, 1226] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "H",
+    "fullTime": { "reception": [191, 204], "workplace": [195, 206] },
+    "partTime": { "reception": [1074, 1141], "workplace": [1066, 1131] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "I",
+    "fullTime": { "reception": [210, 220], "workplace": [225, 233] },
+    "partTime": { "reception": [1106, 1185], "workplace": [1177, 1250] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "J",
+    "fullTime": { "reception": [249, 246], "workplace": [264, 259] },
+    "partTime": { "reception": [1070, 1125], "workplace": [1083, 1137] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "K",
+    "fullTime": { "reception": [225, 230], "workplace": [232, 239] },
+    "partTime": { "reception": [1079, 1150], "workplace": [1091, 1159] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "L",
+    "fullTime": { "reception": [264, 287], "workplace": [256, 317] },
+    "partTime": { "reception": [1200, 1244], "workplace": [1216, 1243] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "M",
+    "fullTime": { "reception": [235, 245], "workplace": [236, 246] },
+    "partTime": { "reception": [1089, 1143], "workplace": [1074, 1125] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "N",
+    "fullTime": { "reception": [220, 227], "workplace": [240, 245] },
+    "partTime": { "reception": [1112, 1168], "workplace": [1189, 1282] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "O",
+    "fullTime": { "reception": [228, 241], "workplace": [223, 236] },
+    "partTime": { "reception": [1454, 1594], "workplace": [1433, 1568] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "P",
+    "fullTime": { "reception": [217, 226], "workplace": [218, 227] },
+    "partTime": { "reception": [1180, 1256], "workplace": [1183, 1255] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "Q",
+    "fullTime": { "reception": [178, 195], "workplace": [184, 204] },
+    "partTime": { "reception": [972, 1049], "workplace": [973, 1055] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "R",
+    "fullTime": { "reception": [208, 214], "workplace": [219, 226] },
+    "partTime": { "reception": [1041, 1098], "workplace": [1045, 1105] }
+  },
+  {
+    "placeId": "JP-47",
+    "industryId": "ST",
+    "fullTime": { "reception": [218, 232], "workplace": [214, 229] },
+    "partTime": { "reception": [1347, 1464], "workplace": [1355, 1470] }
+  }
+]

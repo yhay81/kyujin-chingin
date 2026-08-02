@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#efe8dc"/>
+  <rect x="45" y="45" width="1110" height="540" rx="34" fill="#fffdf7" stroke="#c4bcaf" stroke-width="3"/>
+  <text x="92" y="126" fill="#d67c45" font-family="ui-monospace, monospace" font-size="18" font-weight="800" letter-spacing="3">2025 JOB OFFER WAGES</text>
+  <text x="92" y="205" fill="#21312c" font-family="Yu Gothic UI, sans-serif" font-size="50" font-weight="800">求人賃金くらべ</text>
+  <text x="95" y="263" fill="#68746f" font-family="Yu Gothic UI, sans-serif" font-size="24">地域・産業・雇用区分を、同じ求人票で比べる。</text>
+  <g transform="translate(95 335)">
+    <rect width="505" height="32" rx="16" fill="#cbd5ce"/>
+    <rect width="338" height="32" rx="16" fill="#e1b955"/>
+    <path d="M274-9V41" stroke="#d67c45" stroke-width="5"/>
+    <text y="76" fill="#68746f" font-family="ui-monospace, monospace" font-size="15">2024</text>
+    <text x="440" y="76" fill="#68746f" font-family="ui-monospace, monospace" font-size="15">2025</text>
+  </g>
+  <g transform="translate(760 90)">
+    <rect width="310" height="420" rx="9" fill="#c99b6c" stroke="#6d5039" stroke-width="16"/>
+    <g transform="translate(45 55) rotate(-2 110 100)">
+      <rect width="220" height="190" fill="#fffdf3" stroke="#8d8679" stroke-width="2"/>
+      <circle cx="110" cy="0" r="10" fill="#d67c45" stroke="#fff" stroke-width="3"/>
+      <path d="M24 48h172M24 76h110M24 126h172M24 148h132" stroke="#24362f" stroke-width="7" stroke-linecap="round"/>
+      <path d="M24 168h83" stroke="#e1b955" stroke-width="10" stroke-linecap="round"/>
+    </g>
+    <rect x="77" y="288" width="178" height="74" fill="#bfd0c1" stroke="#6d5039" stroke-width="2" transform="rotate(3 166 325)"/>
+  </g>
+  <text x="95" y="540" fill="#24362f" font-family="ui-monospace, monospace" font-size="18" font-weight="800">48 PLACES · 19 INDUSTRIES · 4 TABLES</text>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "求人賃金くらべ",
+  "short_name": "求人賃金くらべ",
+  "description": "ハローワーク求人の平均賃金を地域、産業、雇用区分で比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efe8dc",
+  "theme_color": "#24362f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
